@@ -26,6 +26,9 @@ jobs:
           path: docs
       - name: update file and push to remote
         run: |
+          git config --global user.name "Conversion bots"
+          git config --global user.email "conversion@bot.com"
+
           git add -A
           git commit -m "Converting to pdf and html"
           git push
