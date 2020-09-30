@@ -1,0 +1,31 @@
+name: Docs to PDF
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  converttopdf:
+    name: Build PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: BaileyJM02/markdown-to-pdf@v1.0.1
+        with:
+          input_dir: Markdown
+          output_dir: docs
+          # images_dir: docs/images
+          # for example <img src="./images/file-name.png">
+          # images_path: ./images
+          # Default is true, can set to false to only get PDF files
+          build_html: true
+      - uses: actions/upload-artifact@v2
+        with:
+          name: docs
+          path: docs
+      - name: update file and push to remote
+        run: |
+          git add -A
+          git commit -m "Converting to pdf and html"
+          git push
