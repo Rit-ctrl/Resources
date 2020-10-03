@@ -37,7 +37,7 @@
 | Session-24 (24/09/2020) |  IPC 2  |[Slides](https://drive.google.com/open?id=1aQlZu5Kt4W_0hG7B38sy2S3PSFx2ugxC&authuser=0) |[Lecture 24](https://drive.google.com/open?id=18YR6dYNBk4H5OSlnD7dy_CGpybGqY-se&authuser=0)|
 | Session- 25(28/09/2020) |  IPC 3 ,Pipes 1  |[Slides](https://drive.google.com/open?id=18lFBG5QTAibtaMDZ-XgYcrS-Y9SyA5Fq&authuser=0) |[Lecture 25](https://drive.google.com/open?id=1kHkvxW2_Ry8TtYjmmJqcaVDbBNw_JUFb&authuser=0)|
 | Session- 26(29/09/2020) | Pipes 2 , Pipes exercises   |[Slides](https://drive.google.com/open?id=1vIovVS86OOdzMZai7U5RHuEljgizZ12q&authuser=0) |[Lecture 26](https://drive.google.com/open?id=1iy4KE6MD0iHVmTkH2R99HTVtGfMGNKci&authuser=0)|
-| Session- 27(01/10/2020) |dup and Pipes example LS  |[Slides](https://drive.google.com/open?id=1Jp8fVtwUventti4SZUtRHvi6OlnfMPGP&authuser=1) |[Lecture ](https://drive.google.com/open?id=1l8XNoTKKmFe76gJWyn_xo1mTDvhcKENV&authuser=1)|
+| Session- 27(01/10/2020) |dup and Pipes example LS  |[Slides](https://drive.google.com/open?id=1Jp8fVtwUventti4SZUtRHvi6OlnfMPGP&authuser=1) |[Lecture 27](https://drive.google.com/open?id=1l8XNoTKKmFe76gJWyn_xo1mTDvhcKENV&authuser=1)|
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
 | | | |
 
