@@ -23,9 +23,9 @@
 |Lec  15 | Go Back N and problems   |[Slides](https://drive.google.com/open?id=1FXT-O-UcjFXEQERQoNAclwtfhlJgJCvv&authuser=0) |[Lecture 15](https://drive.google.com/open?id=16C9GSOiJT0dB7lcNxds5T-WzgSf3cxNe&authuser=0)|
 |Lec  16 | Selective Repeat and problems , Review of all protocols   |[Slides](https://drive.google.com/open?id=1kVCBZq0ZU3gKB0Bgcf9PhUiWdjOjX0gs&authuser=0) |[Lecture 16](https://drive.google.com/open?id=1wq4II8LgtOkdwGyruMRXAQ20UmvxPTP9&authuser=0)|
 |Lec   17|DataLink Layer Error Control (Parity,CRC)    |[Slides](https://drive.google.com/open?id=1XRkpEuQN2DlKuUlv0wiKOSBlMQcuvPuH&authuser=0) |[Lecture 17](https://drive.google.com/open?id=1GPN1Wtbk5HvZIehPQ-BA5Kh7GTOtHsX4&authuser=0)|
-|Lec  18 |    |[Slides]() |[Lecture 18]()|
+|Lec  18 |Checksum and Access Control|[Slides](https://drive.google.com/open?id=1gDJhybFj-PHkw09F2bhcrhtL9FR90uzA&authuser=0) |[Lecture 18](https://drive.google.com/open?id=18s1LB6Gwc4nG99tJ8f9XdSWvdFNo7dZZ&authuser=0)|
 |Lec  19 |    |[Slides]() |[Lecture 19]()|
-|Lec   |    | |[Lecture 20]|
+|Lec  20|    |[Slides]()|[Lecture 20]()|
 |Lec   |    | |[Lecture 21]|
 |  |    | |[Lecture 22]|
 |  |    | |[Lecture 23]|
