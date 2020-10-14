@@ -24,8 +24,8 @@
 |Lec  16 | Selective Repeat and problems , Review of all protocols   |[Slides](https://drive.google.com/open?id=1kVCBZq0ZU3gKB0Bgcf9PhUiWdjOjX0gs&authuser=0) |[Lecture 16](https://drive.google.com/open?id=1wq4II8LgtOkdwGyruMRXAQ20UmvxPTP9&authuser=0)|
 |Lec   17|DataLink Layer Error Control (Parity,CRC)    |[Slides](https://drive.google.com/open?id=1XRkpEuQN2DlKuUlv0wiKOSBlMQcuvPuH&authuser=0) |[Lecture 17](https://drive.google.com/open?id=1GPN1Wtbk5HvZIehPQ-BA5Kh7GTOtHsX4&authuser=0)|
 |Lec  18 |Checksum and Access Control|[Slides](https://drive.google.com/open?id=1gDJhybFj-PHkw09F2bhcrhtL9FR90uzA&authuser=0) |[Lecture 18](https://drive.google.com/open?id=18s1LB6Gwc4nG99tJ8f9XdSWvdFNo7dZZ&authuser=0)|
-|Lec  19 |    |[Slides]() |[Lecture 19]()|
-|Lec  20|    |[Slides]()|[Lecture 20]()|
+|Lec  19 |    |[Slides](https://drive.google.com/open?id=1aIW3HgrquiOjEf3wg6A-O5DQxjrBr1zj&authuser=0) |[Lecture 19](https://drive.google.com/open?id=1kL6aSDcbMwob9N6DKnp_QdTzS5nQ2xwS&authuser=0)|
+|Lec  20| Polling & CSMA/CD   |[Slides]()|[Lecture 20]()|
 |Lec   |    | |[Lecture 21]|
 |  |    | |[Lecture 22]|
 |  |    | |[Lecture 23]|
