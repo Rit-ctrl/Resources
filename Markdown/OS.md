@@ -44,7 +44,6 @@
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
 
-| | | |
 
 ### Resources 
 - Add links to materials you found useful while preparing 
