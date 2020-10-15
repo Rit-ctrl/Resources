@@ -1,4 +1,4 @@
-name: Docs to PDF
+name: Docs to PDF/HTML
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   converttopdf:
-    name: Build PDF
+    name: Build PDF/HTML
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,18 +15,10 @@ jobs:
         with:
           input_dir: Markdown
           output_dir: docs
-          # images_dir: docs/images
-          # for example <img src="./images/file-name.png">
-          # images_path: ./images
-          # Default is true, can set to false to only get PDF files
           build_html: true
-      - uses: actions/upload-artifact@v2
-        with:
-          name: docs
-          path: docs
       - name: update file and push to remote
         run: |
-          git config --global user.name "Conversion bots"
+          git config --global user.name "Conversion bot"
           git config --global user.email "conversion@bot.com"
 
           git add -A
