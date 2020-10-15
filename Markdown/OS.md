@@ -35,12 +35,12 @@
 | Session-22 (21/09/2020) | HRRN , Numericals on RR , IO   |[Slides](https://drive.google.com/open?id=1RHj1MtOBLhOeWMKeVzr3WgCIxFrW2D5d&authuser=0) |[Lecture 22](https://drive.google.com/open?id=1DU0cwBsddolHqVvJ7pvHIF2ixqMpoBBo&authuser=0)|
 | Session-23 (22/09/2020) |  IO , Multiprocessor example , IPC 1  |[Slides](https://drive.google.com/open?id=1e-reLJJ-Ti1sNoLfo4t_EFQocvAQe4Wm&authuser=0) |[Lecture 23](https://drive.google.com/open?id=1JK0RqqbwY4jqUSWSgeNztDwNTUPanyPr&authuser=0)|
 | Session-24 (24/09/2020) |  IPC 2  |[Slides](https://drive.google.com/open?id=1aQlZu5Kt4W_0hG7B38sy2S3PSFx2ugxC&authuser=0) |[Lecture 24](https://drive.google.com/open?id=18YR6dYNBk4H5OSlnD7dy_CGpybGqY-se&authuser=0)|
-| Session- 25(28/09/2020) |  IPC 3 ,Pipes 1  |[Slides](https://drive.google.com/open?id=18lFBG5QTAibtaMDZ-XgYcrS-Y9SyA5Fq&authuser=0) |[Lecture 25](https://drive.google.com/open?id=1kHkvxW2_Ry8TtYjmmJqcaVDbBNw_JUFb&authuser=0)|
-| Session- 26(29/09/2020) | Pipes 2 , Pipes exercises   |[Slides](https://drive.google.com/open?id=1vIovVS86OOdzMZai7U5RHuEljgizZ12q&authuser=0) |[Lecture 26](https://drive.google.com/open?id=1iy4KE6MD0iHVmTkH2R99HTVtGfMGNKci&authuser=0)|
-| Session- 27(01/10/2020) |dup and Pipes example LS  |[Slides](https://drive.google.com/open?id=1Jp8fVtwUventti4SZUtRHvi6OlnfMPGP&authuser=1) |[Lecture 27](https://drive.google.com/open?id=1l8XNoTKKmFe76gJWyn_xo1mTDvhcKENV&authuser=1)|
-| Session- 28(12/10/2020) |Multithreading intro   |[Slides](https://drive.google.com/open?id=1GWUlwq0qT2VVhfdOzzz0HBB6YvxkhqKG&authuser=0) |[Lecture ](https://drive.google.com/open?id=1dyuEjxA-zVQLs7kzIDzMDZ1aWN290Ymk&authuser=0)|
-| Session- 29(13/10/2020) |Multithreading benefits challenges models   |[Slides](https://drive.google.com/open?id=1_N30aN2uJoNzJhjgekXVi6ODHKqxX0fV&authuser=0) |[Lecture ](https://drive.google.com/open?id=1TpAFEZuP3HuQNLPCKyuKjTgKvRmtBrzp&authuser=0)|
-| Session- 30(14/10/2020) | Pthreads example   |[Slides](https://drive.google.com/open?id=1KjakFjldOIhxJDxm6OqxaoJRGHPEiWLU&authuser=0) |[Lecture ](https://drive.google.com/open?id=1SUsKnlefsjxgIt1titX1XOZ3oY-QDigo&authuser=0)|
+| Session-25 (28/09/2020) |  IPC 3 ,Pipes 1  |[Slides](https://drive.google.com/open?id=18lFBG5QTAibtaMDZ-XgYcrS-Y9SyA5Fq&authuser=0) |[Lecture 25](https://drive.google.com/open?id=1kHkvxW2_Ry8TtYjmmJqcaVDbBNw_JUFb&authuser=0)|
+| Session-26 (29/09/2020) | Pipes 2 , Pipes exercises   |[Slides](https://drive.google.com/open?id=1vIovVS86OOdzMZai7U5RHuEljgizZ12q&authuser=0) |[Lecture 26](https://drive.google.com/open?id=1iy4KE6MD0iHVmTkH2R99HTVtGfMGNKci&authuser=0)|
+| Session-27 (01/10/2020) |dup and Pipes example LS  |[Slides](https://drive.google.com/open?id=1Jp8fVtwUventti4SZUtRHvi6OlnfMPGP&authuser=1) |[Lecture 27](https://drive.google.com/open?id=1l8XNoTKKmFe76gJWyn_xo1mTDvhcKENV&authuser=1)|
+| Session-28 (12/10/2020) |Multithreading intro   |[Slides](https://drive.google.com/open?id=1GWUlwq0qT2VVhfdOzzz0HBB6YvxkhqKG&authuser=0) |[Lecture 28](https://drive.google.com/open?id=1dyuEjxA-zVQLs7kzIDzMDZ1aWN290Ymk&authuser=0)|
+| Session-29 (13/10/2020) |Multithreading benefits challenges models   |[Slides](https://drive.google.com/open?id=1_N30aN2uJoNzJhjgekXVi6ODHKqxX0fV&authuser=0) |[Lecture 29](https://drive.google.com/open?id=1TpAFEZuP3HuQNLPCKyuKjTgKvRmtBrzp&authuser=0)|
+| Session-30 (14/10/2020) | Pthreads example   |[Slides](https://drive.google.com/open?id=1KjakFjldOIhxJDxm6OqxaoJRGHPEiWLU&authuser=0) |[Lecture 30](https://drive.google.com/open?id=1SUsKnlefsjxgIt1titX1XOZ3oY-QDigo&authuser=0)|
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
 
