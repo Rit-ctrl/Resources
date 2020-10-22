@@ -25,10 +25,10 @@
 |Lec   17|DataLink Layer Error Control (Parity,CRC)    |[Slides](https://drive.google.com/open?id=1XRkpEuQN2DlKuUlv0wiKOSBlMQcuvPuH&authuser=0) |[Lecture 17](https://drive.google.com/open?id=1GPN1Wtbk5HvZIehPQ-BA5Kh7GTOtHsX4&authuser=0)|
 |Lec  18 |Checksum and Access Control|[Slides](https://drive.google.com/open?id=1gDJhybFj-PHkw09F2bhcrhtL9FR90uzA&authuser=0) |[Lecture 18](https://drive.google.com/open?id=18s1LB6Gwc4nG99tJ8f9XdSWvdFNo7dZZ&authuser=0)|
 |Lec  19 |  Polling & CSMA/CD    |[Slides](https://drive.google.com/open?id=1aIW3HgrquiOjEf3wg6A-O5DQxjrBr1zj&authuser=0) |[Lecture 19](https://drive.google.com/open?id=1kL6aSDcbMwob9N6DKnp_QdTzS5nQ2xwS&authuser=0)|
-|Lec  20|  |[Slides]()|[Lecture 20]()|
-|Lec   |    | |[Lecture 21]|
-|  |    | |[Lecture 22]|
-|  |    | |[Lecture 23]|
-|  |    | |[Lecture 24]|
+|Lec  20|CSMA/CD , Binary Exponential BackOff Algorithm  |[Slides](https://drive.google.com/open?id=10n7zPhzY0RaAn6IULP3QPeNLJEaHjnl1&authuser=0)|[Lecture 20](https://drive.google.com/open?id=1IktSh5iaSDPnJS6fzg4P_tLSyTClCnCx&authuser=0)|
+|Lec  21| Problems on CSMA / CD and Backoff algo|[Slides](https://drive.google.com/open?id=1372XAxOA-39HJ0l2Xz5A-n6dUzNAqe5O&authuser=0) |[Lecture 21](https://drive.google.com/open?id=1hXHJxT8FpoAFDGfB2MUsV05R1m2DL6Ji&authuser=0)|
+|Lec 22|    |[Slides]() |[Lecture 22]|
+|Lec 23|    |[Slides]() |[Lecture 23]|
+|  |    |[Slides]() |[Lecture 24]|
   
 
