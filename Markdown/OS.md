@@ -41,6 +41,8 @@
 | Session-28 (12/10/2020) |Multithreading intro   |[Slides](https://drive.google.com/open?id=1GWUlwq0qT2VVhfdOzzz0HBB6YvxkhqKG&authuser=0) |[Lecture 28](https://drive.google.com/open?id=1dyuEjxA-zVQLs7kzIDzMDZ1aWN290Ymk&authuser=0)|
 | Session-29 (13/10/2020) |Multithreading benefits challenges models   |[Slides](https://drive.google.com/open?id=1_N30aN2uJoNzJhjgekXVi6ODHKqxX0fV&authuser=0) |[Lecture 29](https://drive.google.com/open?id=1TpAFEZuP3HuQNLPCKyuKjTgKvRmtBrzp&authuser=0)|
 | Session-30 (14/10/2020) | Pthreads example   |[Slides](https://drive.google.com/open?id=1KjakFjldOIhxJDxm6OqxaoJRGHPEiWLU&authuser=0) |[Lecture 30](https://drive.google.com/open?id=1SUsKnlefsjxgIt1titX1XOZ3oY-QDigo&authuser=0)|
+| Session- 31(19/10/2020) |Matrix mult|[Slides](https://drive.google.com/open?id=1R8dHfCilZjwToCa-SIqjDj9NMyA9vdCJ&authuser=0) |[Lecture ](https://drive.google.com/open?id=1AHSsBoI11aBBs7CQcjuYaxuv5Q2N7uQx&authuser=0)|
+| Session- 32(20/10/2020) |Matrix mult and Amdahl's law    |[Slides](https://drive.google.com/open?id=1OZjzUHZ2Z-ou5CYPtsRwpjganr-p4B0C&authuser=0) |[Lecture ](https://drive.google.com/open?id=1rMZa88mLyYjIthLk_TuA1IgWmOBbTCzQ&authuser=0)|
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
 
