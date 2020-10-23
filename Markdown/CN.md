@@ -2,7 +2,7 @@
 
  ## Faculty - Munesh 
 
-|Lecture |Topic |Video|PDF|
+|Lecture |Topic |PDF|Video|
 |---|---|---|---|
 |Lec 1  | Intro   |[Slides](https://drive.google.com/open?id=1jYADMqUI_L2_qc6oqIfBDk3kAfZFOlQr&authuser=0) |[Lecture 1](https://drive.google.com/open?id=1ot_QEq2oLC0xoXd7p24Dfvp0yF5tzyc4&authuser=0) |
 |Lec 2 |  Computer Network Devices and Media  |[Slides](https://drive.google.com/open?id=19I0ZLhV410WhfUVEyKD5DrbklN0ddxUb&authuser=0) |[Lecture 2](https://drive.google.com/open?id=1hlFhHPS1o5ZayPivMo1zIG2ySUfUQMPn&authuser=0) |
