@@ -43,10 +43,10 @@
 | Session-30 (14/10/2020) | Pthreads example   |[Slides](https://drive.google.com/file/d/1KjakFjldOIhxJDxm6OqxaoJRGHPEiWLU/view)|[Lecture 30](https://drive.google.com/file/d/1SUsKnlefsjxgIt1titX1XOZ3oY-QDigo/view)|
 | Session- 31(19/10/2020) |Matrix mult|[Slides](https://drive.google.com/file/d/1R8dHfCilZjwToCa-SIqjDj9NMyA9vdCJ/view)|[Lecture 31](https://drive.google.com/file/d/1AHSsBoI11aBBs7CQcjuYaxuv5Q2N7uQx/view)|
 | Session- 32(20/10/2020) |Matrix mult and Amdahl's law    |[Slides](https://drive.google.com/file/d/1OZjzUHZ2Z-ou5CYPtsRwpjganr-p4B0C/view)|[Lecture 32 ](https://drive.google.com/file/d/1rMZa88mLyYjIthLk_TuA1IgWmOBbTCzQ/view)|
-| Session-33 (22/10/2020) |Amdahl's law, Thread pool|[Slides](https://drive.google.com/open?id=1TGnnN_gP5zPgqaATOrCpD-b-n7_uS0Ou&authuser=0) |[Lecture 33](https://drive.google.com/open?id=1yCFqPnLlXLewag4NbBiBM6_fCUahEFfR&authuser=0)|
-| Session-34 (26/10/2020) |Thread level scheduling,Signal handling   |[Slides](https://drive.google.com/open?id=1Jq0ubvVBCTEnL21crTwGjZB_wsKfGbVO&authuser=0) |[Lecture 34](https://drive.google.com/open?id=14zZA1yI4Qui1iSwrZ4GEQquyESGgwbvH&authuser=0)|
-| Session-35 (27/10/2020) |Signal handling|[Slides](https://drive.google.com/open?id=1Z9w1Iq__fNC4VtBoN2vMLiAMh41_5CcR&authuser=0) |[Lecture 35](https://drive.google.com/open?id=1RnOfnSQDEyjM4q8c50HD6sU2GugWYf4X&authuser=0)|
-| Session-36 (29/10/2020) |Sending signals and addnl features  |[Slides](https://drive.google.com/open?id=1PVupfGdpZ-U4ZLKepyjLnQN2ZBIoLAgc&authuser=0) |[Lecture 36](https://drive.google.com/open?id=1CdAt6O_HzlKjHBBxMJ_LtDqoBFfhv4ba&authuser=0)|
+| Session-33 (22/10/2020) |Amdahl's law, Thread pool|[Slides](https://drive.google.com/file/d/1TGnnN_gP5zPgqaATOrCpD-b-n7_uS0Ou/view)|[Lecture 33](https://drive.google.com/file/d/1yCFqPnLlXLewag4NbBiBM6_fCUahEFfR/view)|
+| Session-34 (26/10/2020) |Thread level scheduling,Signal handling   |[Slides](https://drive.google.com/file/d/1Jq0ubvVBCTEnL21crTwGjZB_wsKfGbVO/view)|[Lecture 34](https://drive.google.com/file/d/14zZA1yI4Qui1iSwrZ4GEQquyESGgwbvH/view)|
+| Session-35 (27/10/2020) |Signal handling|[Slides](https://drive.google.com/file/d/1Z9w1Iq__fNC4VtBoN2vMLiAMh41_5CcR/view)|[Lecture 35](https://drive.google.com/file/d/1RnOfnSQDEyjM4q8c50HD6sU2GugWYf4X/view)|
+| Session-36 (29/10/2020) |Sending signals and addnl features  |[Slides](https://drive.google.com/file/d/1PVupfGdpZ-U4ZLKepyjLnQN2ZBIoLAgc/view)|[Lecture 36](https://drive.google.com/file/d/1CdAt6O_HzlKjHBBxMJ_LtDqoBFfhv4ba/view)|
 <!--
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
