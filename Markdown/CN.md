@@ -27,8 +27,11 @@
 |Lec  19 |  Polling & CSMA/CD    |[Slides](https://drive.google.com/file/d/1aIW3HgrquiOjEf3wg6A-O5DQxjrBr1zj/view)|[Lecture 19](https://drive.google.com/file/d/1kL6aSDcbMwob9N6DKnp_QdTzS5nQ2xwS/view)|
 |Lec  20|CSMA/CD , Binary Exponential BackOff Algorithm  |[Slides](https://drive.google.com/file/d/10n7zPhzY0RaAn6IULP3QPeNLJEaHjnl1/view)|[Lecture 20](https://drive.google.com/file/d/1IktSh5iaSDPnJS6fzg4P_tLSyTClCnCx/view)|
 |Lec  21| Problems on CSMA / CD and Backoff algo|[Slides](https://drive.google.com/file/d/1372XAxOA-39HJ0l2Xz5A-n6dUzNAqe5O/view)|[Lecture 21](https://drive.google.com/file/d/1hXHJxT8FpoAFDGfB2MUsV05R1m2DL6Ji/view)|
+|Lec 22|Token Passing, DTR and ETR|[Slides](https://drive.google.com/open?id=12do9ZS-vLfiOYAnsuFCGAw-XnW9Zhjt7&authuser=0) |[Lecture 22](https://drive.google.com/open?id=11BbZzp3X0jd6BB_x0Mup6icSwvcKxUHy&authuser=0)|
+|Lec 23|Aloha-slotted;pure,Ethernet |[Slides](https://drive.google.com/open?id=1PiuBYc6c_OD2RNvbJuPyEIO1IbQ83Djc&authuser=0) |[Lecture 22](https://drive.google.com/open?id=1mQ9l7i5XP0y_pgJbGcwwrU7F8IY57qmS&authuser=0)|
+
 <!--
-|Lec 22|    |[Slides]() |[Lecture 22]|
+|Lec |    |[Slides]() |[Lecture ]()|
 |Lec 23|    |[Slides]() |[Lecture 23]|
 |  |    |[Slides]() |[Lecture 24]|
 -->
