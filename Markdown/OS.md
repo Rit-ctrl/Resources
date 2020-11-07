@@ -47,9 +47,9 @@
 | Session-34 (26/10/2020) |Thread level scheduling,Signal handling   |[Slides](https://drive.google.com/file/d/1Jq0ubvVBCTEnL21crTwGjZB_wsKfGbVO/view)|[Lecture 34](https://drive.google.com/file/d/14zZA1yI4Qui1iSwrZ4GEQquyESGgwbvH/view)|
 | Session-35 (27/10/2020) |Signal handling|[Slides](https://drive.google.com/file/d/1Z9w1Iq__fNC4VtBoN2vMLiAMh41_5CcR/view)|[Lecture 35](https://drive.google.com/file/d/1RnOfnSQDEyjM4q8c50HD6sU2GugWYf4X/view)|
 | Session-36 (29/10/2020) |Sending signals and addnl features  |[Slides](https://drive.google.com/file/d/1PVupfGdpZ-U4ZLKepyjLnQN2ZBIoLAgc/view)|[Lecture 36](https://drive.google.com/file/d/1CdAt6O_HzlKjHBBxMJ_LtDqoBFfhv4ba/view)|
-| Session-37(2/11/2020) |Synchronization|[Slides](https://drive.google.com/open?id=1e0xH7jvg52V9AFF-xJLEXZ9a5KJZzwFC&authuser=0) |[Lecture ](https://drive.google.com/open?id=1Kf1NFXMsPEKCGdm66GqP9S0LS6S_DdFb&authuser=0)|
-| Session-38(3/11/2020) |Critical Section problem, Peterson's solution|[Slides](https://drive.google.com/open?id=1rLGi2PHYJgBAg1BmJGWHMhrIACqWi7yZ&authuser=0) |[Lecture ](https://drive.google.com/open?id=1iOufgpiBE7QP8jS8uPUGjj6RuJiTyfJo&authuser=0)|
-| Session-39(5/11/2020) | Lock instruction, Bounded-waiting mutual exclusion|[Slides](https://drive.google.com/open?id=186mIDj7cyYwY-kK937BTzkR4Ai5NiOnn&authuser=0) |[Lecture ](https://drive.google.com/open?id=1n04HChy17bF4VVoHIP9fNtG2spncrXgj&authuser=0)|
+| Session-37(02/11/2020) |Synchronization|[Slides](https://drive.google.com/open?id=1e0xH7jvg52V9AFF-xJLEXZ9a5KJZzwFC&authuser=0) |[Lecture 37 ](https://drive.google.com/open?id=1Kf1NFXMsPEKCGdm66GqP9S0LS6S_DdFb&authuser=0)|
+| Session-38(03/11/2020) |Critical Section problem, Peterson's solution|[Slides](https://drive.google.com/open?id=1rLGi2PHYJgBAg1BmJGWHMhrIACqWi7yZ&authuser=0) |[Lecture 38](https://drive.google.com/open?id=1iOufgpiBE7QP8jS8uPUGjj6RuJiTyfJo&authuser=0)|
+| Session-39(05/11/2020) | Lock instruction, Bounded-waiting mutual exclusion|[Slides](https://drive.google.com/open?id=186mIDj7cyYwY-kK937BTzkR4Ai5NiOnn&authuser=0) |[Lecture 39](https://drive.google.com/open?id=1n04HChy17bF4VVoHIP9fNtG2spncrXgj&authuser=0)|
 <!--
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
