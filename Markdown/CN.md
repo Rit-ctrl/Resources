@@ -29,6 +29,14 @@
 |Lec  21| Problems on CSMA / CD and Backoff algo|[Slides](https://drive.google.com/file/d/1372XAxOA-39HJ0l2Xz5A-n6dUzNAqe5O/view)|[Lecture 21](https://drive.google.com/file/d/1hXHJxT8FpoAFDGfB2MUsV05R1m2DL6Ji/view)|
 |Lec 22|Token Passing, DTR and ETR|[Slides](https://drive.google.com/file/d/12do9ZS-vLfiOYAnsuFCGAw-XnW9Zhjt7/view)|[Lecture 22](https://drive.google.com/file/d/11BbZzp3X0jd6BB_x0Mup6icSwvcKxUHy/view)|
 |Lec 23|Aloha-slotted;pure,Ethernet |[Slides](https://drive.google.com/file/d/1PiuBYc6c_OD2RNvbJuPyEIO1IbQ83Djc/view)|[Lecture 22](https://drive.google.com/file/d/1mQ9l7i5XP0y_pgJbGcwwrU7F8IY57qmS/view)|
+|Lec 24|Switching|[Slides](https://drive.google.com/open?id=1SMCFLwkkR5qkI91kaxTuiG4UFOaJk87l&authuser=1) |[Lecture 24](https://drive.google.com/open?id=1Xoge5aW3DTpesnt66k7ebAcfqiYRl05_&authuser=1)|
+|Lec 25|Routing algorithms|[Slides](https://drive.google.com/open?id=1AslcNxK5WVTCzI5F5AMvyxjwDvvINncy&authuser=1) |[Lecture 25](https://drive.google.com/open?id=1uERGCKrYvxiu7gZXOGQCQ8n4q3nmYKnk&authuser=1)|
+|Lec 26|IP address, Casting|[Slides](https://drive.google.com/open?id=1lGmMOQso2BZi2RVHsqse63h3d3Jx_ecT&authuser=1) |[Lecture 26](https://drive.google.com/open?id=1r8zsLRXHrqokOuXv-EKNi3o8dxvZD4bo&authuser=1)|
+|Lec 27|CIDR,Subnetting|[Slides](https://drive.google.com/open?id=1RNV9QPbQMozgtpv8JGV7jGNZo0vjQA_y&authuser=1) |[Lecture 27](https://drive.google.com/open?id=1Vlsa1uYuxuM5iHc4OoyFlDa-nG5fG0Ue&authuser=1)|
+|Lec 28|Subnetting|[Slides](https://drive.google.com/open?id=1XxQi4P1V6k-J2DXAJznKrd-o9Ll0AVbq&authuser=1) |[Lecture 28](https://drive.google.com/open?id=1HcYH3DgkS4Y8AUAB0X4Q8G1OC18f1O2c&authuser=1)|
+|Lec 29|IPv4,Fragmentation,IPv6|[Slides](https://drive.google.com/open?id=1sS1V7WmXkNlinjhm616fHd7qHUa0bfyj&authuser=1) |[Lecture 29](https://drive.google.com/open?id=10eeGax8Ex3X7s90v3DK0PJh6i0Xp0yf-&authuser=1)|
+|Lec 30|Transport layer protocol-TCP|[Slides](https://drive.google.com/open?id=1wzXduaya4a6xUpNzYNjVbo5iC0rnk65F&authuser=1) |[Lecture 30](https://drive.google.com/open?id=15cnhcvWIo66wAN4eeiUHMwtPTLYPPGTt&authuser=1)|
+|Lec 31|TCP|[Slides](https://drive.google.com/open?id=1TRfOxPWH53svXQWzV1eP9YC3C3Fwm0Tk&authuser=1) |[Lecture 31](https://drive.google.com/open?id=1YZp3TANWxW1zgf3lzRaHykqNdyt183KV&authuser=1)|
 
 <!--
 |Lec |    |[Slides]() |[Lecture ]()|
