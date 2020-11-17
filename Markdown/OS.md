@@ -50,9 +50,9 @@
 | Session-37(02/11/2020) |Synchronization|[Slides](https://drive.google.com/file/d/1e0xH7jvg52V9AFF-xJLEXZ9a5KJZzwFC/view)|[Lecture 37 ](https://drive.google.com/file/d/1Kf1NFXMsPEKCGdm66GqP9S0LS6S_DdFb/view)|
 | Session-38(03/11/2020) |Critical Section problem, Peterson's solution|[Slides](https://drive.google.com/file/d/1rLGi2PHYJgBAg1BmJGWHMhrIACqWi7yZ/view)|[Lecture 38](https://drive.google.com/file/d/1iOufgpiBE7QP8jS8uPUGjj6RuJiTyfJo/view)|
 | Session-39(05/11/2020) | Lock instruction, Bounded-waiting mutual exclusion|[Slides](https://drive.google.com/file/d/186mIDj7cyYwY-kK937BTzkR4Ai5NiOnn/view)|[Lecture 39](https://drive.google.com/file/d/1n04HChy17bF4VVoHIP9fNtG2spncrXgj/view)|
-| Session-40 (09/11/2020) |Mutex locks for CSP,Semaphore limitations,Deadlock & Starvation problems|[Slides](https://drive.google.com/open?id=13uRA7GkoNPD8OcS1ki8u9HETJ7CxzbIC&authuser=1) |[Lecture 40](https://drive.google.com/open?id=1fWTLk_HGxUyIQo4Es7X2EdlBuKJmz4kq&authuser=1)|
-| Session-41 (10/11/2020) |Dining philosopher problem|[Slides](https://drive.google.com/open?id=1Lofub7Lg9FzrFqhUrASR_oAGeCT9urHQ&authuser=1) |[Lecture 41](https://drive.google.com/open?id=14d-8ynwbeDDg_vjSrcnurriaj_ECA1ph&authuser=1)|
-| Session-42 (12/11/2020) |Dining philosopher,Reader Writer problem|[Slides](https://drive.google.com/open?id=1Ubc-lQ9tfug-OPHUEYb4RB5wKHJW6HoK&authuser=1) |[Lecture 43](https://drive.google.com/open?id=1gNe3YbEyF4zYxIicWTMqaQaWKzi-xIjU&authuser=1)|
+| Session-40 (09/11/2020) |Mutex locks for CSP,Semaphore limitations,Deadlock & Starvation problems|[Slides](https://drive.google.com/file/d/13uRA7GkoNPD8OcS1ki8u9HETJ7CxzbIC/view)|[Lecture 40](https://drive.google.com/file/d/1fWTLk_HGxUyIQo4Es7X2EdlBuKJmz4kq/view)|
+| Session-41 (10/11/2020) |Dining philosopher problem|[Slides](https://drive.google.com/file/d/1Lofub7Lg9FzrFqhUrASR_oAGeCT9urHQ/view)|[Lecture 41](https://drive.google.com/file/d/14d-8ynwbeDDg_vjSrcnurriaj_ECA1ph/view)|
+| Session-42 (12/11/2020) |Dining philosopher,Reader Writer problem|[Slides](https://drive.google.com/file/d/1Ubc-lQ9tfug-OPHUEYb4RB5wKHJW6HoK/view)|[Lecture 43](https://drive.google.com/file/d/1gNe3YbEyF4zYxIicWTMqaQaWKzi-xIjU/view)|
 
 <!--
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
