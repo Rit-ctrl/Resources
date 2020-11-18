@@ -52,7 +52,7 @@
 | Session-39(05/11/2020) | Lock instruction, Bounded-waiting mutual exclusion|[Slides](https://drive.google.com/file/d/186mIDj7cyYwY-kK937BTzkR4Ai5NiOnn/view)|[Lecture 39](https://drive.google.com/file/d/1n04HChy17bF4VVoHIP9fNtG2spncrXgj/view)|
 | Session-40 (09/11/2020) |Mutex locks for CSP,Semaphore limitations,Deadlock & Starvation problems|[Slides](https://drive.google.com/file/d/13uRA7GkoNPD8OcS1ki8u9HETJ7CxzbIC/view)|[Lecture 40](https://drive.google.com/file/d/1fWTLk_HGxUyIQo4Es7X2EdlBuKJmz4kq/view)|
 | Session-41 (10/11/2020) |Dining philosopher problem|[Slides](https://drive.google.com/file/d/1Lofub7Lg9FzrFqhUrASR_oAGeCT9urHQ/view)|[Lecture 41](https://drive.google.com/file/d/14d-8ynwbeDDg_vjSrcnurriaj_ECA1ph/view)|
-| Session-42 (12/11/2020) |Dining philosopher,Reader Writer problem|[Slides](https://drive.google.com/file/d/1Ubc-lQ9tfug-OPHUEYb4RB5wKHJW6HoK/view)|[Lecture 43](https://drive.google.com/file/d/1gNe3YbEyF4zYxIicWTMqaQaWKzi-xIjU/view)|
+| Session-42 (12/11/2020) |Dining philosopher,Reader Writer problem|[Slides](https://drive.google.com/file/d/1Ubc-lQ9tfug-OPHUEYb4RB5wKHJW6HoK/view)|[Lecture 42](https://drive.google.com/file/d/1gNe3YbEyF4zYxIicWTMqaQaWKzi-xIjU/view)|
 
 <!--
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
