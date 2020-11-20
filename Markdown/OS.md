@@ -53,9 +53,9 @@
 | Session-40 (09/11/2020) |Mutex locks for CSP,Semaphore limitations,Deadlock & Starvation problems|[Slides](https://drive.google.com/file/d/13uRA7GkoNPD8OcS1ki8u9HETJ7CxzbIC/view)|[Lecture 40](https://drive.google.com/file/d/1fWTLk_HGxUyIQo4Es7X2EdlBuKJmz4kq/view)|
 | Session-41 (10/11/2020) |Dining philosopher problem|[Slides](https://drive.google.com/file/d/1Lofub7Lg9FzrFqhUrASR_oAGeCT9urHQ/view)|[Lecture 41](https://drive.google.com/file/d/14d-8ynwbeDDg_vjSrcnurriaj_ECA1ph/view)|
 | Session-42 (12/11/2020) |Dining philosopher,Reader Writer problem|[Slides](https://drive.google.com/file/d/1Ubc-lQ9tfug-OPHUEYb4RB5wKHJW6HoK/view)|[Lecture 42](https://drive.google.com/file/d/1gNe3YbEyF4zYxIicWTMqaQaWKzi-xIjU/view)|
-| Session-43 (16/11/2020) |Reader writer,prod cons,Deadlocks|[Slides](https://drive.google.com/open?id=1ygfVVvqX55ybQc5Om-bmmBQ7gYtJUrJP&authuser=0) |[Lecture 43](https://drive.google.com/open?id=1Zt40tUc8vPMSC5cS1batQqyLusuY0GEe&authuser=0)|
-| Session-44 (17/11/2020) |handling deadlocks,prevention,avoidance-Bankers algo |[Slides](https://drive.google.com/open?id=1MgZ3OiOn06PaXC9uK_mn885sC1zF4zXW&authuser=0) |[Lecture 44](https://drive.google.com/open?id=17pileVnMWz6LObCMI3jf9gep8gyGW8tQ&authuser=0)|
-| Session-45 (18/11/2020) |Deadlock detection,Recovery from deadlock|[Slides](https://drive.google.com/open?id=1K1r_DXj5DWzsOFs1eqWNpnhmp9G0evQK&authuser=0) |[Lecture 45](https://drive.google.com/open?id=1hkhQmBUOQ96a9E4SDidLWWoqNvKZukXK&authuser=0)|
+| Session-43 (16/11/2020) |Reader writer,prod cons,Deadlocks|[Slides](https://drive.google.com/file/d/1ygfVVvqX55ybQc5Om-bmmBQ7gYtJUrJP/view)|[Lecture 43](https://drive.google.com/file/d/1Zt40tUc8vPMSC5cS1batQqyLusuY0GEe/view)|
+| Session-44 (17/11/2020) |handling deadlocks,prevention,avoidance-Bankers algo |[Slides](https://drive.google.com/file/d/1MgZ3OiOn06PaXC9uK_mn885sC1zF4zXW/view)|[Lecture 44](https://drive.google.com/file/d/17pileVnMWz6LObCMI3jf9gep8gyGW8tQ/view)|
+| Session-45 (18/11/2020) |Deadlock detection,Recovery from deadlock|[Slides](https://drive.google.com/file/d/1K1r_DXj5DWzsOFs1eqWNpnhmp9G0evQK/view)|[Lecture 45](https://drive.google.com/file/d/1hkhQmBUOQ96a9E4SDidLWWoqNvKZukXK/view)|
 <!--
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
 | Session- (//2020) |    |[Slides]() |[Lecture ]()|
