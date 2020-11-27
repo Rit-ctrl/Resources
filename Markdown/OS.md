@@ -65,4 +65,4 @@
 - [Refer](https://classroom.google.com/c/MTQyMDQ0ODE5NzMw/m/MjMxNzU0MjkxMzE4/details) for full notes
 - [Nice intro to Semaphores](https://en.wikibooks.org/wiki/Operating_System_Design/Processes/Semaphores)
 - [For semaphore based problems](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf) Ch-4 and 5
-- For banker's algorithm - [vid_1](https://www.youtube.com/watch?v=bYFVbzLLxfY) [vid_2](https://www.youtube.com/watch?v=Or40J_f2RHo&t=674s)
+- For banker's algorithm - [vid_1](https://www.youtube.com/watch?v=bYFVbzLLxfY) [vid_2](https://youtu.be/Or40J_f2RHo)
