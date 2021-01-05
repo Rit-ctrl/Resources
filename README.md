@@ -5,5 +5,5 @@
 
 ## Sem 6 resources
 
-1. []()
+1. [Computer Architecture]()
 2. []()
