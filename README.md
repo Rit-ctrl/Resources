@@ -5,5 +5,5 @@
 
 ## Sem 6 resources
 
-1. [Computer Architecture]()
+1. [Computer Architecture](https://rit-ctrl.github.io/Resources/docs/CA.html)
 2. []()
