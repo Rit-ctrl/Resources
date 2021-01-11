@@ -8,7 +8,7 @@
  - [Session 2](https://drive.google.com/file/d/1fOxOWaPPeUMLlAKZNlgBps6nrmdfDOnc/view)
  
  ### Slide 2 - [pdf](https://drive.google.com/open?id=1Xv_VrlwohTzC1YPeOAZYJI5ROwG5dPSm&authuser=0)
- -[Session 3](https://drive.google.com/open?id=1XIQH0cB_vsElqbhFjxCN0N2Rwg3-vlcY&authuser=0)
+ - [Session 3](https://drive.google.com/open?id=1XIQH0cB_vsElqbhFjxCN0N2Rwg3-vlcY&authuser=0)
 
 ## Practice
  - [Intro session](https://drive.google.com/file/d/1u8LRmYmYz5vivgG82LGmGSOAzuK0otQP/view?ts=5ff44710)
