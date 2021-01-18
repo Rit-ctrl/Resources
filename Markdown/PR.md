@@ -6,5 +6,5 @@
   - [Video 1](https://drive.google.com/file/d/1oFzVt7S8_b6NgP47eITUXKEergeVjioB/view)
 ## Lecture 2 : [Paradigms of PR](https://drive.google.com/file/d/1essCx8SF_adcOsm4c6NegxeDhSsLhIL8/view?usp=sharing)
    - [Video 1](https://drive.google.com/open?id=1Ah0nYiWv8cCFA9OjpGbgz_bejgn-OchA&authuser=0)
-## Lecture 3 : [Pattern Recognition system](https://drive.google.com/file/d/1essCx8SF_adcOsm4c6NegxeDhSsLhIL8/view?usp=sharing)
+## Lecture 3 : [Pattern Recognition system](https://drive.google.com/file/d/1H9l5lnmylEw-jfckPJqMm_dp4cFSy8GB/view?usp=sharing)
     
