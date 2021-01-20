@@ -15,5 +15,4 @@
 | Lec 3	|Pattern Recognition system | [Slides](https://drive.google.com/file/d/1H9l5lnmylEw-jfckPJqMm_dp4cFSy8GB/view?usp=sharing)	| [Lecture](https://drive.google.com/file/d/14NFuhu7EKobH0OhRzDu6B7doUsublc16/view)	|
 | Lec 4	| |	| [Lecture](https://drive.google.com/file/d/1bpWLvxxFz1wSjIGXXcJLYY8IFJ1u6pbi/view)	|
 | Lec 5	|	| 	| [Lecture](https://drive.google.com/file/d/1xip-WkWejKuxnfZSSd-V1U40n_zhwot_/view)	|
-|       |       |        |     |
-
+| Lec 6	|Proximity measures	| [Slides]()	| [Lecture](https://drive.google.com/file/d/1wSGXIiDGvjlaftQ2CcUX2p8HK02biBH9/view)	|																		
