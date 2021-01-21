@@ -17,5 +17,5 @@
 
 ## Practice
  - [Intro session](https://drive.google.com/file/d/1u8LRmYmYz5vivgG82LGmGSOAzuK0otQP/view?ts=5ff44710) 
- - [Lab 1 - Blinking LEDs)(https://drive.google.com/open?id=12NjeQQB77sbEh6SFEiqd11P-r078bk-W&authuser=0) [PPT](https://drive.google.com/open?id=1HvssjG9WMSYZHpNvQX3bcQCHvi8YJaoD&authuser=0)
+ - [Lab 1 - Blinking LEDs](https://drive.google.com/open?id=12NjeQQB77sbEh6SFEiqd11P-r078bk-W&authuser=0) [PPT](https://drive.google.com/open?id=1HvssjG9WMSYZHpNvQX3bcQCHvi8YJaoD&authuser=0)
  - [Lab 2 - Blinking LEDs using switch](https://drive.google.com/open?id=1LarxL41_-lX4P8M__EDJWEyTMp-bsJBS&authuser=0) [PPT](https://drive.google.com/open?id=1wNOj8b-BxgEFQQkFcBUGxrUhE2A_DEG9&authuser=0)
