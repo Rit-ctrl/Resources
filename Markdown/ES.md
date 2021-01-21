@@ -1,5 +1,7 @@
 # Embedded Systems
-  
+
+|Session|Topic |PPT |Recordings|
+|-------|------|----|----------|
 | Lec 1	4/1|	| [Slides](https://drive.google.com/open?id=1TsUeMqq55ap_fH5V4VkK4SH2TwCiE8k2&authuser=0)	| [Lecture](https://drive.google.com/file/d/1I1Rkt8t9y2_Q57o_R-1J3l3SUprsxcbx/view?ts=5ff3fb8d)	|
 | Lec 2	7/1|	| [Slides]()	| [Lecture](https://drive.google.com/file/d/1E2DriCmlmZzCfjm1DCBwRLWbeT9xxUAa/view)	|
 | Lec 3	8/1|	| [Slides]()	| [Lecture](https://drive.google.com/file/d/1fOxOWaPPeUMLlAKZNlgBps6nrmdfDOnc/view)	|
@@ -16,6 +18,9 @@
 | Lec 14	|	| [Slides]()	| [Lecture]()	|
 
 ## Practice
- - Intro session : [Video](https://drive.google.com/file/d/1u8LRmYmYz5vivgG82LGmGSOAzuK0otQP/view?ts=5ff44710) 
- - Lab 1 - Blinking LEDs : [Video](https://drive.google.com/open?id=12NjeQQB77sbEh6SFEiqd11P-r078bk-W&authuser=0) [PPT](https://drive.google.com/open?id=1HvssjG9WMSYZHpNvQX3bcQCHvi8YJaoD&authuser=0)
- - Lab 2 - Blinking LEDs using switch : [Video](https://drive.google.com/open?id=1LarxL41_-lX4P8M__EDJWEyTMp-bsJBS&authuser=0) [PPT](https://drive.google.com/open?id=1wNOj8b-BxgEFQQkFcBUGxrUhE2A_DEG9&authuser=0)
+|Session|Topic |PPT |Recordings|
+|-------|------|----|----------|
+| Intro session |	 |[Slides]()	| [Lecture](https://drive.google.com/file/d/1u8LRmYmYz5vivgG82LGmGSOAzuK0otQP/view?ts=5ff44710)	|
+| Practice 1 	|Blinking LEDs  |[Slides](https://drive.google.com/open?id=1HvssjG9WMSYZHpNvQX3bcQCHvi8YJaoD&authuser=0)	| [Lecture](https://drive.google.com/open?id=12NjeQQB77sbEh6SFEiqd11P-r078bk-W&authuser=0)	|
+| Practice 2	|Blinking LEDs using switch |[Slides](https://drive.google.com/open?id=1wNOj8b-BxgEFQQkFcBUGxrUhE2A_DEG9&authuser=0)	| [Lecture](https://drive.google.com/open?id=1LarxL41_-lX4P8M__EDJWEyTMp-bsJBS&authuser=0)	|
+
