@@ -1,6 +1,8 @@
 # Analytics and Systems of Big data
 
 
+|Lecture |Topic |PDF|Video|
+|---|---|---|---|
 | Lec 1	 6/1|	Overview and Eval pattern| [Slides](https://drive.google.com/open?id=11EJ6P43_0_aAuAyZdz2lM4wWXfJrC9cz&authuser=0)	| [Lecture](https://drive.google.com/open?id=1eBfzOTXIhFgP9Yr3J_Yf_suRCV8Z_ljY&authuser=0)	|
 | Lec 2	7/1|Introduction	| [Slides](https://drive.google.com/open?id=1Nz8ob307KTyR1Deg0nlisyy3_yAK6Lwz&authuser=0)	| [Lecture](https://drive.google.com/open?id=1UpmAfqrVFcgnntBC7dMmxO9fcFmoptjQ&authuser=0)	|
 | Lec 3	8/1| Applications	| [Slides](https://drive.google.com/open?id=1TD35xW0QBxdYSTBBsfC8UyyRXDw1YMVY&authuser=0)	| [Lecture](https://drive.google.com/open?id=1GJwNYnO_k4HvxboFu7rnEchB4EYOI4Fq&authuser=0)	|
