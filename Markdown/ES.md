@@ -9,7 +9,7 @@
 | Lec 5	15/1| Arch of ARM	| [Slides](https://drive.google.com/open?id=14RQbJ1YS_pgAO7_jO_PoPYJJeQdoNt1x&authuser=0)	| [Lecture](https://drive.google.com/open?id=1gPsrJ5IwDUlctTbwqE5qdpz0QtsMCBVz&authuser=0)	|
 | Lec 6	19/1|ARM ISA	| [Slides](https://drive.google.com/open?id=1OQhIYPdEC8O71Gye_Es0znwDLKTOCXpf&authuser=0)	| [Lecture](https://drive.google.com/open?id=1TwOkEwKjRRQNlnADlr2CXfsiI5Zg3_qz&authuser=0)	|
 | Lec 7	21/1|ARM ISA | [Slides]()	| [Lecture](https://drive.google.com/open?id=1x9C9SvvHZfasuASq1Z2j8adR_VTaifiJ&authuser=0)	|
-| Lec 8	|	| [Slides]()	| [Lecture]()	|
+| Lec 8	22/1|ARM ISA, Intro to ARM Cortex-M4F and its peripherals	| [Slides]()	| [Lecture](https://drive.google.com/open?id=1chqzOkqjNrSBtu4splQ_hvg3Y7v_hxV5&authuser=0)	|
 | Lec 9	|	| [Slides]()	| [Lecture]()	|
 | Lec 10	|	| [Slides]()	| [Lecture]()	|
 | Lec 11	|	| [Slides]()	| [Lecture]()	|
