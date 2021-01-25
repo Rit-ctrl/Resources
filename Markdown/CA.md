@@ -17,3 +17,4 @@
 | Lec 6	|Review of ISA and pipelines| [Slides](https://drive.google.com/file/d/1oC_O0LUF2z9PpPXb48-cZ4P97JO7G082/view)	| [Lecture](https://drive.google.com/file/d/1OAdMz6mrXETth49q_F9fUs809IqUTI9-/view)	|				
  | Lec 7	|	|	| [Lecture](https://drive.google.com/file/d/1rc-BrJnSH6viyyo7FE4XeBrRmFUn8BXu/view)	|																		
 | Lec 8	|	| | [Lecture](https://drive.google.com/file/d/19vZ-bnxlCQ1iHvfHkBbNvFGgTDpvFu-N/view)	|
+| Lec 9	|	| | [Lecture](https://drive.google.com/file/d/1t_2UQS66Du_oEWiDD-0tx00t_mupgWFX/view)	|																		
