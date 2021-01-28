@@ -11,5 +11,5 @@
 | Lec 6	20/1|Dot, Stem-leaf & Box Plots	| [Slides](https://drive.google.com/open?id=1Rgj_osyO92Nb_Qz7JmfOlxnZDWVxbZBw&authuser=0)	| [Lecture](https://drive.google.com/open?id=1ZlU_aCAtlD0ywnVlqg1Xe-pu250qWw6s&authuser=0)	|
 | Lec 7	21/1|Boxplot Interpretation	| [Slides](https://drive.google.com/open?id=1-fRTTmcwciKYtJT7BwliZz0GkrKVg0JA&authuser=0)	| [Lecture](https://drive.google.com/open?id=1s9d1RoFloP4XeH7B6Qaa_3Ate24pmZN_&authuser=0)	|
 | Lec 8	22/1|KDD Phases	| [Slides](https://drive.google.com/open?id=1HIH0F4WkUqUr9QZ_VpwvFJGDiVN63ctX&authuser=0)	| [Lecture](https://drive.google.com/open?id=1tF4XBkIyN71z5m77CAwYzH7hDfQ6FKCw&authuser=0)	|
-| Lec 9	|	| [Slides]()	| [Lecture]()	|
+| Lec 9	27/1|Data Preprocessing	| [Slides](https://drive.google.com/open?id=1yHUrt4uVEsNOSxVItdGNgLwhHd4TzGJB&authuser=0)	| [Lecture](https://drive.google.com/open?id=1Y0wtHJ3YqQkfNvrVbRf2sIez1ng10tkJ&authuser=0)	|
 | Lec 10	|	| [Slides]()	| [Lecture]()	|
