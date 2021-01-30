@@ -17,4 +17,5 @@
 | Lec 5	|	| 	| [Lecture](https://drive.google.com/file/d/1xip-WkWejKuxnfZSSd-V1U40n_zhwot_/view)	|
 | Lec 6	|Proximity measures	| [Slides](https://docs.google.com/presentation/d/1FgolLDLkirl7OwkscfR4yWPO83cAVgEJ/edit#slide=id.p1)	| [Lecture](https://drive.google.com/file/d/1wSGXIiDGvjlaftQ2CcUX2p8HK02biBH9/view)	|			 
 | Lec 7 |Metric measures	| 	| [Lecture](https://drive.google.com/file/d/1mdFNcktPl_ZSHHSkAvp-uC84WBJPmy7n/view)	|					
-| Lec 8	|Mahalanobis distance	| 	| [Lecture](https://drive.google.com/file/d/1ewjRMkqCEgHZrAgqxUR-QLBn9hZZt1YD/view)	|																																													
+| Lec 8	|Mahalanobis distance	| 	| [Lecture](https://drive.google.com/file/d/1ewjRMkqCEgHZrAgqxUR-QLBn9hZZt1YD/view)	|																								
+| Lec 9	|Non metric measures	| | [Lecture](https://drive.google.com/file/d/1u312Ukh703nL22v0ky714Nro8YHjzLjy/view)	|																																							
