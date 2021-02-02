@@ -20,3 +20,4 @@
 | Lec 9	|	| | [Lecture](https://drive.google.com/file/d/1t_2UQS66Du_oEWiDD-0tx00t_mupgWFX/view)	|																		
 | Lec 10	|Advanced ILP	| [Slides](https://drive.google.com/file/d/1iXmGBhLPb3I_V69L3brgFqd9Jn7oAGuZ/view)	| [Lecture](https://drive.google.com/file/d/1J3HkGY0oy-QOmfk0gKT4mO6NhIRnK-Bj/view)	|																		
 | Lec 11	(1/2/21)|	| | [Lecture](https://drive.google.com/file/d/1OssjxKNycoaXG-_zdYSfcY1O-yFaDOF7/view)	|																		
+| Lec 12 (2/2/21)|	|| [Lecture](https://drive.google.com/file/d/1xSPrcZQJ5ZA4ZCHUngaBC7LhbtM6n2xH/view)	|																		
