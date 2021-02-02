@@ -20,4 +20,4 @@
 | Lec 7 |Metric measures	| 	| [Lecture](https://drive.google.com/file/d/1mdFNcktPl_ZSHHSkAvp-uC84WBJPmy7n/view)	|					
 | Lec 8	|Mahalanobis distance	| 	| [Lecture](https://drive.google.com/file/d/1ewjRMkqCEgHZrAgqxUR-QLBn9hZZt1YD/view)	|																								
 | Lec 9	|Non metric measures	| | [Lecture](https://drive.google.com/file/d/1u312Ukh703nL22v0ky714Nro8YHjzLjy/view)	|																																						
-| Lec 10 (2/2/21)|Bayesian Decesion Theory| | [Lecture](https://drive.google.com/file/d/1AFeUByA_-TZYiqpFzZiwhGRAMw3JknKd/view)	|																																							
+| Lec 10 (2/2/21)|Bayesian Decision Theory|[Slides]() | [Lecture](https://drive.google.com/file/d/1AFeUByA_-TZYiqpFzZiwhGRAMw3JknKd/view)	|																																							
