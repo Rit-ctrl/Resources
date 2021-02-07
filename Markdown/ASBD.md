@@ -15,3 +15,8 @@
 | Lec 10	28/1|	ARM| [Slides](https://drive.google.com/open?id=1f2s0lsitUTXxWWliZI4o64wmGs-vV45j&authuser=0)	| [Lecture](https://drive.google.com/open?id=1XQOivC9R4H-Q_o9yyDcxtHnn9Fbssp0G&authuser=0)	|
 | Lec 11	29/1|	FPM Apriori| [Slides](https://drive.google.com/open?id=13W0ATRoMAMgHVktsTGy2CFrgn5zoUsvM&authuser=0)	| [Lecture](https://drive.google.com/open?id=1JvPnmXHp9c0VdQ3OVYzyaGCivbw5dxJj&authuser=0)	|
 | Lec 12 3/2|FPM Apriori 2 |[Slides](https://drive.google.com/open?id=16QWkYK17wSlNyAfjIfao3afnAEbTey-4&authuser=0) |[Lecture](https://drive.google.com/open?id=1oNZs3fPFYNaX5XfWyHuzNcexhu09q0Lj&authuser=0) |
+|Lec | |[Slides]() |[Lectures]() |
+|Lec | |[Slides]() |[Lectures]() |
+
+
+[comment]: <> (|Lec | |[Slides]() |[Lectures]() |
