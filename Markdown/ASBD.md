@@ -15,10 +15,10 @@
 | Lec 10	28/1|	ARM| [Slides](https://drive.google.com/open?id=1f2s0lsitUTXxWWliZI4o64wmGs-vV45j&authuser=0)	| [Lecture](https://drive.google.com/open?id=1XQOivC9R4H-Q_o9yyDcxtHnn9Fbssp0G&authuser=0)	|
 | Lec 11	29/1|	FPM Apriori| [Slides](https://drive.google.com/open?id=13W0ATRoMAMgHVktsTGy2CFrgn5zoUsvM&authuser=0)	| [Lecture](https://drive.google.com/open?id=1JvPnmXHp9c0VdQ3OVYzyaGCivbw5dxJj&authuser=0)	|
 | Lec 12 3/2|FPM Apriori 2 |[Slides](https://drive.google.com/open?id=16QWkYK17wSlNyAfjIfao3afnAEbTey-4&authuser=0) |[Lecture](https://drive.google.com/open?id=1oNZs3fPFYNaX5XfWyHuzNcexhu09q0Lj&authuser=0) |
-|Lec 13 4/2|FPM Apriori 3 |[Slides](https://drive.google.com/open?id=1Fh--9RtFaYp2ZARmFo_v_cq9Dt3LdpUk&authuser=0) |[Lectures](https://drive.google.com/open?id=1Y083bi6AA7M8lpdpT25MzrpJ2AqyE1ch&authuser=0) |
-|Lec 14 5/2|FP growth |[Slides](https://drive.google.com/open?id=1F6et7G-GCQ-KuH5pZ2lgHODjTwEZA3M-&authuser=0) |[Lectures](https://drive.google.com/open?id=19ZgHp3IfWSw0QcE-Z2E_Ok2zpOOTTxdM&authuser=0) |
+|Lec 13 4/2|FPM Apriori 3 |[Slides](https://drive.google.com/open?id=1Fh--9RtFaYp2ZARmFo_v_cq9Dt3LdpUk&authuser=0) |[Lecture](https://drive.google.com/open?id=1Y083bi6AA7M8lpdpT25MzrpJ2AqyE1ch&authuser=0) |
+|Lec 14 5/2|FP growth |[Slides](https://drive.google.com/open?id=1F6et7G-GCQ-KuH5pZ2lgHODjTwEZA3M-&authuser=0) |[Lecture](https://drive.google.com/open?id=19ZgHp3IfWSw0QcE-Z2E_Ok2zpOOTTxdM&authuser=0) |
 
 
 <!---
-|Lec | |[Slides]() |[Lectures]() |
+|Lec | |[Slides]() |[Lecture]() |
 -->
