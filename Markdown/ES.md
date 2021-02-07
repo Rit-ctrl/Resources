@@ -13,9 +13,9 @@
 | Lec 9	25/1|	| 	| [Lecture](https://drive.google.com/file/d/1NgCNwp0E8LWHIxOd-YDH2IKZ1g2jOW_8/view?usp=sharing_eil&ts=600e65bf)	|
 | Lec 10 28/1	|	| [Slides]()	| [Lecture](https://drive.google.com/file/d/19qqN1-ZdN78Mjx9XRLqB6_o8_JEbqJMW/view?usp=sharing_eil&ts=601299b1)	|
 | Lec 11	29/1|	| [Slides]()	| [Lecture](https://drive.google.com/file/d/1wDdZxyhKSx53a4zxhECTYaxUh09QyPw7/view?usp=sharing_eil&ts=6013e896)	|
-| Lec 12	1/2|	| [Slides]()	| [Lecture](https://drive.google.com/file/d/1YzRy1md1yICCRgIBfySFapglSEojaNPD/view?usp=sharing_eil&ts=60178a4b)	|
-| Lec 13	4/2|	| [Slides]()	| [Lecture](https://drive.google.com/file/d/1gFEa-MDX-6ZSpPrOsOyQWmkj57FJWcWz/view?usp=sharing_eip&ts=601bd1be)	|
-| Lec 14	5/2|	| [Slides](https://drive.google.com/open?id=1eBnB07eo1eeRJlMOZfi7kKHXxmtDdx3d&authuser=0)	| [Lecture](https://drive.google.com/file/d/15vfzOGh5WcATncWClu0uBUfRnCW94s6U/view?usp=sharing_eip&ts=601d286f)	|
+| Lec 12	1/2|	| [Slides](https://drive.google.com/open?id=1eBnB07eo1eeRJlMOZfi7kKHXxmtDdx3d&authuser=0)	| [Lecture](https://drive.google.com/file/d/1YzRy1md1yICCRgIBfySFapglSEojaNPD/view?usp=sharing_eil&ts=60178a4b)	|
+| Lec 13	4/2|	| 	| [Lecture](https://drive.google.com/file/d/1gFEa-MDX-6ZSpPrOsOyQWmkj57FJWcWz/view?usp=sharing_eip&ts=601bd1be)	|
+| Lec 14	5/2|	| 	| [Lecture](https://drive.google.com/file/d/15vfzOGh5WcATncWClu0uBUfRnCW94s6U/view?usp=sharing_eip&ts=601d286f)	|
 
 ## Practice
 |Session|Topic |PPT |Recordings|
