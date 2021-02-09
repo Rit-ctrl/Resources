@@ -22,3 +22,5 @@
 | Lec 9	|Non metric measures	| | [Lecture](https://drive.google.com/file/d/1u312Ukh703nL22v0ky714Nro8YHjzLjy/view)	|																																						
 | Lec 10 (2/2/21)|Bayesian Decision Theory|[Slides]() | [Lecture](https://drive.google.com/file/d/1AFeUByA_-TZYiqpFzZiwhGRAMw3JknKd/view)	|																																							
 | Lec 11 (4/2/21)||| [Lecture](https://drive.google.com/file/d/1JvfitzsFl972RgYBbB6vUfVyM-0YqYu1/view)	|																																							
+| Lec 12 (8/2/21)||| [Lecture](https://drive.google.com/file/d/1ghFLtwQJ9gezvTIxSp9l6jPOtP2rZJmV/view)	|																																							
+| Lec 13 (9/2/21)||| [Lecture](https://drive.google.com/file/d/1iAM8049YuWM667Z68Lw0fXPv27ioxgCQ/view)|																		
