@@ -24,3 +24,5 @@
 | Lec 11	(1/2/21)|	| | [Lecture](https://drive.google.com/file/d/1OssjxKNycoaXG-_zdYSfcY1O-yFaDOF7/view)	|																		
 | Lec 12 (2/2/21)|	|| [Lecture](https://drive.google.com/file/d/1xSPrcZQJ5ZA4ZCHUngaBC7LhbtM6n2xH/view)	|																		
 | Lec 13 (4/2/21)|	|| [Lecture](https://drive.google.com/file/d/192Nj671-SPNn8ILuKIO3SY0uo-m_Why4/view)	|																		
+| Lec 14 (8/2/21)|	|| [Lecture](https://drive.google.com/file/d/1QDQkRaxg385YOUVnE9s1OGe8q8yrGj2s/view)	|																		
+| Lec 15 (9/2/21)|	|| [Lecture](https://drive.google.com/file/d/11mBKTWwCSvG4QbWRzDWbkOSYYsvGZ5Uk/view)	|																		
