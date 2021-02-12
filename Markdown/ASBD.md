@@ -20,8 +20,9 @@
 |Lec 15 10/2|FP-Trace I |[Slides](https://drive.google.com/open?id=1D_ng1H1mK5CYHRtHRetu_MlkI1dzGjY7&authuser=0) |[Lecture](https://drive.google.com/open?id=1oVClgye0yQGveyoxGksSTNJZE07u7oUZ&authuser=0) |
 |Lec 16 11/2|FP-Trace II|[Slides](https://drive.google.com/open?id=1NDavIZVD5gc7rvbd3QAtQn0nOijfy-8T&authuser=0) |[Lecture](https://drive.google.com/open?id=1DfWpv0IklCZBHUChTQyiKfGFT3AUvK2C&authuser=0) |
 
-Useful links:
-Mining massive datasets (course+book) - [http://www.mmds.org/](http://www.mmds.org/)
+## Useful links:
+
+- Mining massive datasets (course+book) - [http://www.mmds.org/](http://www.mmds.org/)
 <!---
 |Lec | |[Slides]() |[Lecture]() |
 -->
