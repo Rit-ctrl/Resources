@@ -17,6 +17,8 @@
 | Lec 12 3/2|FPM Apriori 2 |[Slides](https://drive.google.com/open?id=16QWkYK17wSlNyAfjIfao3afnAEbTey-4&authuser=0) |[Lecture](https://drive.google.com/open?id=1oNZs3fPFYNaX5XfWyHuzNcexhu09q0Lj&authuser=0) |
 |Lec 13 4/2|FPM Apriori 3 |[Slides](https://drive.google.com/open?id=1Fh--9RtFaYp2ZARmFo_v_cq9Dt3LdpUk&authuser=0) |[Lecture](https://drive.google.com/open?id=1Y083bi6AA7M8lpdpT25MzrpJ2AqyE1ch&authuser=0) |
 |Lec 14 5/2|FP growth |[Slides](https://drive.google.com/open?id=1F6et7G-GCQ-KuH5pZ2lgHODjTwEZA3M-&authuser=0) |[Lecture](https://drive.google.com/open?id=19ZgHp3IfWSw0QcE-Z2E_Ok2zpOOTTxdM&authuser=0) |
+|Lec 15 10/2|FP-Trace I |[Slides](https://drive.google.com/open?id=1D_ng1H1mK5CYHRtHRetu_MlkI1dzGjY7&authuser=0) |[Lecture](https://drive.google.com/open?id=1oVClgye0yQGveyoxGksSTNJZE07u7oUZ&authuser=0) |
+|Lec 16 11/2|FP-Trace II|[Slides](https://drive.google.com/open?id=1NDavIZVD5gc7rvbd3QAtQn0nOijfy-8T&authuser=0) |[Lecture](https://drive.google.com/open?id=1DfWpv0IklCZBHUChTQyiKfGFT3AUvK2C&authuser=0) |
 
 
 <!---
