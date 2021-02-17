@@ -26,3 +26,6 @@
 | Lec 13 (4/2/21)|	|| [Lecture](https://drive.google.com/file/d/192Nj671-SPNn8ILuKIO3SY0uo-m_Why4/view)	|																		
 | Lec 14 (8/2/21)|	|| [Lecture](https://drive.google.com/file/d/1QDQkRaxg385YOUVnE9s1OGe8q8yrGj2s/view)	|																		
 | Lec 15 (9/2/21)|	|| [Lecture](https://drive.google.com/file/d/11mBKTWwCSvG4QbWRzDWbkOSYYsvGZ5Uk/view)	|																		
+| Lec 16 (11/2/21)|	|| [Lecture](https://drive.google.com/file/d/1N7bYh3B_NQ58N3dSsj4r6YaY_8EWi9o8/view)	|																		
+| Lec 17 (15/2/21)|	|| [Lecture](https://drive.google.com/file/d/1Uz63nNtield_868-YBTn0cCeDnjVx8IG/view)	|																		
+| Lec 18 (16/2/21)|Logic unit design(Exp-9)	|| [Lecture](https://drive.google.com/file/d/1wOxvDJYJjUBxL0XRL9REt0qPiFlSEfDJ/view)	|																		
