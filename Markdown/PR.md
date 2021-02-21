@@ -27,6 +27,9 @@
 | Lec 14 (11/2/21)||| [Lecture](https://drive.google.com/file/d/1PFp4mU-g4y-440sTMdhLJDCpilDJIGJU/view)|																		
 | Lec 15 (15/2/21)||| [Lecture](https://drive.google.com/file/d/1ljDAcPnubjPp48qfuC2elozuvPTVTN1U/view)|																		
 | Lec 16 (16/2/21)||| [Lecture](https://drive.google.com/file/d/1JHcFus9PeARnb37nWDSglwm66CGc0G2Z/view)|	
-<!----
-|Lec 17 | | |
----!>
+
+<!---
+|Lec (//21) | |[Slides]() |[Lecture]()|
+-->
+|Lec 17 (18/2/21) | |[Slides]() |[Lecture]()|
+|Lec 18(19/2/21) | |[Slides]() |[Lecture]()|
