@@ -26,9 +26,9 @@
 | Lec 13 (9/2/21)||| [Lecture](https://drive.google.com/file/d/1iAM8049YuWM667Z68Lw0fXPv27ioxgCQ/view)|																		
 | Lec 14 (11/2/21)||| [Lecture](https://drive.google.com/file/d/1PFp4mU-g4y-440sTMdhLJDCpilDJIGJU/view)|																		
 | Lec 15 (15/2/21)||| [Lecture](https://drive.google.com/file/d/1ljDAcPnubjPp48qfuC2elozuvPTVTN1U/view)|																		
-| Lec 16 (16/2/21)||| [Lecture](https://drive.google.com/file/d/1JHcFus9PeARnb37nWDSglwm66CGc0G2Z/view)|
-|Lec 17 (18/2/21) | |[Slides]() |[Lecture]()|
-|Lec 18(19/2/21) | |[Slides]() |[Lecture]()|
+| Lec 16 (16/2/21)||[Jamboard](https://drive.google.com/file/d/1FM9cILZb_FE78U9QVwmQ2s6ZZN8q5XV-/view?usp=sharing)| [Lecture](https://drive.google.com/file/d/1JHcFus9PeARnb37nWDSglwm66CGc0G2Z/view)|
+|Lec 17 (18/2/21) | |[Jamboard](https://drive.google.com/file/d/1cv6T97VCYuhRgWsFFC1HATqtN6sM8_6_/view?usp=sharing) |[Lecture]()|
+|Lec 18 (19/2/21) | |[Jamboard](https://drive.google.com/file/d/1OpY1sLVQEYJdRHEPdrE1V3tqaun8T2aw/view?usp=sharing) |[Lecture]()|
 
 <!---
 |Lec (//21) | |[Slides]() |[Lecture]()|
