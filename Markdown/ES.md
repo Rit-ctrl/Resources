@@ -19,6 +19,9 @@
 | Lec 15 8/2|Discussion session | |[Lecture]() |
 |Lec 16 11/2| | |[Lecture](https://drive.google.com/file/d/1IPFSE3jZ6zCszYgoGIKVdh83LvfLbmgK/view?usp=sharing_eip&ts=602506b4)|
 |Lec 17 12/2| | |[Lecture](https://drive.google.com/file/d/1xo7l1ymHVJJU7JNDTgZnOpnHXJb3KNUA/view?usp=sharing_eip&ts=60265fc6)|
+|Lec 18 15/2| |[Slides]() |[Lecture](https://drive.google.com/file/d/1M7unHqXdHBQ-hVMza05EOj_vI4M5WV_4/view?usp=sharing_eip&ts=602a05ac) |
+|Lec 19 18/2| |[Slides]() |[Lecture](https://drive.google.com/file/d/17aQAT08hpcdXcjre-nlMhhUXo7uTlaae/view?usp=sharing_eip&ts=602e4352) |
+|Lec | |[Slides]() |[Lecture]() |
 <!---
 |Lec | |[Slides]() |[Lecture]() |
 -->
