@@ -20,6 +20,9 @@
 |Lec 15 10/2|FP-Trace I |[Slides](https://drive.google.com/open?id=1vsHtKemxmf2GCBSVCDcJOfG_ZlAd6XCX&authuser=0) |[Lecture](https://drive.google.com/open?id=1oVClgye0yQGveyoxGksSTNJZE07u7oUZ&authuser=0) |
 |Lec 16 11/2|FP-Trace II|[Slides](https://drive.google.com/open?id=1NDavIZVD5gc7rvbd3QAtQn0nOijfy-8T&authuser=0) |[Lecture](https://drive.google.com/open?id=1DfWpv0IklCZBHUChTQyiKfGFT3AUvK2C&authuser=0) |
 |Lec 17 12/2|DIC |[Slides](https://drive.google.com/open?id=1T_ElinaL1QCR2TQCbABPxJPEIO5i5Ljs&authuser=0) |[Lecture](https://drive.google.com/open?id=1JVm5jlt508NWlqUjZC9o__EIA2-6hJEs&authuser=0) |
+|Lec 18 17/2|DIC and DHP |[Slides]() |[Lecture]() |
+|Lec 19 18/2|Apriori Transaction Reduction and CFI,MFI |[Slides](https://drive.google.com/open?id=1q68uXjMaKMnmsxzlfQFbC16m42Wwk6dg&authuser=0) |[Lecture](https://drive.google.com/open?id=1swTKLtOiNsppjBgAQMTOq97GkbkmRqSv&authuser=0) |
+|Lec 20 10/2| Vertical Transaction Reduction|[Slides](https://drive.google.com/open?id=1lieREgQNKcjYedbUv74_kMbzKBB-ExD7&authuser=0) |[Lecture](https://drive.google.com/open?id=1VDq8IB6W2POCbmwkayAv8BzAONN3nFPj&authuser=0) |
 
 ## Useful links:
 
