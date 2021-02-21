@@ -19,8 +19,8 @@
 | Lec 15 8/2|Discussion session | |[Lecture]() |
 |Lec 16 11/2| | |[Lecture](https://drive.google.com/file/d/1IPFSE3jZ6zCszYgoGIKVdh83LvfLbmgK/view?usp=sharing_eip&ts=602506b4)|
 |Lec 17 12/2| | |[Lecture](https://drive.google.com/file/d/1xo7l1ymHVJJU7JNDTgZnOpnHXJb3KNUA/view?usp=sharing_eip&ts=60265fc6)|
-|Lec 18 15/2| |[Slides]() |[Lecture](https://drive.google.com/file/d/1M7unHqXdHBQ-hVMza05EOj_vI4M5WV_4/view?usp=sharing_eip&ts=602a05ac) |
-|Lec 19 18/2| |[Slides]() |[Lecture](https://drive.google.com/file/d/17aQAT08hpcdXcjre-nlMhhUXo7uTlaae/view?usp=sharing_eip&ts=602e4352) |
+|Lec 18 15/2| | |[Lecture](https://drive.google.com/file/d/1M7unHqXdHBQ-hVMza05EOj_vI4M5WV_4/view?usp=sharing_eip&ts=602a05ac) |
+|Lec 19 18/2| | |[Lecture](https://drive.google.com/file/d/17aQAT08hpcdXcjre-nlMhhUXo7uTlaae/view?usp=sharing_eip&ts=602e4352) |
 |Lec | |[Slides]() |[Lecture]() |
 <!---
 |Lec | |[Slides]() |[Lecture]() |
@@ -33,4 +33,6 @@
 | Practice 1 	|Blinking LEDs  |[Slides](https://drive.google.com/open?id=1HvssjG9WMSYZHpNvQX3bcQCHvi8YJaoD&authuser=0)	| [Lecture](https://drive.google.com/open?id=12NjeQQB77sbEh6SFEiqd11P-r078bk-W&authuser=0)	|
 | Practice 2	|Blinking LEDs using switch |[Slides](https://drive.google.com/open?id=1wNOj8b-BxgEFQQkFcBUGxrUhE2A_DEG9&authuser=0)	| [Lecture](https://drive.google.com/open?id=1LarxL41_-lX4P8M__EDJWEyTMp-bsJBS&authuser=0)	|
 | Practice 3	|Blinking LEDs using 2 switches |[Slides](https://drive.google.com/open?id=1lS0BhAKLvzvUcd1KBw0K0Q2g8goKnruc&authuser=0)	| 	|
+|Practice 4 | |[Slides]() |[Lecture]() |
+|Practice 5 | |[Slides]() |[Lecture]() |
 
