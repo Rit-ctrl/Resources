@@ -33,6 +33,6 @@
 | Practice 1 	|Blinking LEDs  |[Slides](https://drive.google.com/open?id=1HvssjG9WMSYZHpNvQX3bcQCHvi8YJaoD&authuser=0)	| [Lecture](https://drive.google.com/open?id=12NjeQQB77sbEh6SFEiqd11P-r078bk-W&authuser=0)	|
 | Practice 2	|Blinking LEDs using switch |[Slides](https://drive.google.com/open?id=1wNOj8b-BxgEFQQkFcBUGxrUhE2A_DEG9&authuser=0)	| [Lecture](https://drive.google.com/open?id=1LarxL41_-lX4P8M__EDJWEyTMp-bsJBS&authuser=0)	|
 | Practice 3	|Blinking LEDs using 2 switches |[Slides](https://drive.google.com/open?id=1lS0BhAKLvzvUcd1KBw0K0Q2g8goKnruc&authuser=0)	| 	|
-|Practice 4 | |[Slides]() |[Lecture]() |
-|Practice 5 | |[Slides]() |[Lecture]() |
+|Practice 4 |DAC using R-2R ladder |[Slides](https://drive.google.com/open?id=1ON1GlNBqmNebeYPEhTLiYN2FtL2Dwtwi&authuser=0) |[Lecture](https://drive.google.com/open?id=1s6ChbHl_dFd3x6akjIicrC53DN56ljGW&authuser=0) |
+|Practice 5 |ADC to digital conversion |[Slides](https://drive.google.com/open?id=14FSps5EkrJ0KmxW-mgfY4GsLxkHF5no7&authuser=0) |[Lecture](https://drive.google.com/open?id=1FFil4v-sJqfD6B0MhUG4ZrOo3-l_v4pb&authuser=0) |
 
