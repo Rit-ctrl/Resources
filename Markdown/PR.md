@@ -29,6 +29,7 @@
 | Lec 16 (16/2/21)||[Jamboard](https://drive.google.com/file/d/1FM9cILZb_FE78U9QVwmQ2s6ZZN8q5XV-/view?usp=sharing)| [Lecture](https://drive.google.com/file/d/1JHcFus9PeARnb37nWDSglwm66CGc0G2Z/view)|
 |Lec 17 (18/2/21) | |[Jamboard](https://drive.google.com/file/d/1cv6T97VCYuhRgWsFFC1HATqtN6sM8_6_/view?usp=sharing) |[Lecture](https://drive.google.com/file/d/18Ituo7uXs9rect6b3MnL5BMP5rcjfVlZ/view)|
 |Lec 18 (19/2/21) | |[Jamboard](https://drive.google.com/file/d/1OpY1sLVQEYJdRHEPdrE1V3tqaun8T2aw/view?usp=sharing) |[Lecture](https://drive.google.com/file/d/1kyAfEFn_llkpG0N65yOwI97YDGwqhsJ4/view)|
+|Lec 19 (22/2/21) | |[Slides](https://drive.google.com/file/d/1zI5uWI8ri86LzpSSWnsyA6uBhV_ujCn3/view) |[Lecture](https://drive.google.com/file/d/10M6nBcL0THrm-MciQ4gQhKHegpyzR4Kx/view)|
 
 <!---
 |Lec (//21) | |[Slides]() |[Lecture]()|
