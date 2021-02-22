@@ -1,9 +1,9 @@
 # Operating Systems COM301T
-##  Faculty - B Sivaselvan
+##  Faculty - Dr. Sivaselvan B
 ### Schedule 
 - Monday 2.00 - 2.50 pm  
 - Tuesday 12.00 - 12.50 pm
-- Thursday 11.00 - 11.50 pm
+- Thursday 11.00 - 11.50 am
 ### TAs  
 -  Santosh Kumar - coe18d005
 -  Mercy Faustina - coe19d006
@@ -56,10 +56,7 @@
 | Session-43 (16/11/2020) |Reader writer,prod cons,Deadlocks|[Slides](https://drive.google.com/file/d/1ygfVVvqX55ybQc5Om-bmmBQ7gYtJUrJP/view)|[Lecture 43](https://drive.google.com/file/d/1Zt40tUc8vPMSC5cS1batQqyLusuY0GEe/view)|
 | Session-44 (17/11/2020) |handling deadlocks,prevention,avoidance-Bankers algo |[Slides](https://drive.google.com/file/d/1MgZ3OiOn06PaXC9uK_mn885sC1zF4zXW/view)|[Lecture 44](https://drive.google.com/file/d/17pileVnMWz6LObCMI3jf9gep8gyGW8tQ/view)|
 | Session-45 (18/11/2020) |Deadlock detection,Recovery from deadlock|[Slides](https://drive.google.com/file/d/1K1r_DXj5DWzsOFs1eqWNpnhmp9G0evQK/view)|[Lecture 45](https://drive.google.com/file/d/1hkhQmBUOQ96a9E4SDidLWWoqNvKZukXK/view)|
-<!--
-| Session- (//2020) |    |[Slides]() |[Lecture ]()|
-| Session- (//2020) |    |[Slides]() |[Lecture ]()|
--->
+
 ### Resources 
 - Add links to materials you found useful while preparing 
 - [Refer](https://classroom.google.com/c/MTQyMDQ0ODE5NzMw/m/MjMxNzU0MjkxMzE4/details) for full notes

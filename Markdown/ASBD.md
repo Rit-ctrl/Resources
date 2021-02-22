@@ -1,5 +1,5 @@
 # Analytics and Systems of Big data
-
+##  Faculty - Dr. Sivaselvan B
 
 |Lecture |Topic |PDF|Video|
 |---|---|---|---|
@@ -29,6 +29,6 @@
 - Mining massive datasets (course+book) - [http://www.mmds.org/](http://www.mmds.org/)
 - For apriori trace - [link](https://www.youtube.com/watch?v=h_l3b2CIQ_o&list=PLYT7YDstBQmE50voZ81eLS0hz2gUdZJwp&index=6&ab_channel=CSEGURUS)
 - For FP-Growth trace - [link](https://www.youtube.com/watch?v=VB8KWm8MXss)
-<!---
+<!--
 |Lec | |[Slides]() |[Lecture]() |
 -->

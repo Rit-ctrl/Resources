@@ -19,12 +19,12 @@
 |4|20 jan 2021|Image operations|[Lecture](https://drive.google.com/file/d/187CKGJnRMs6WuAH855-b2g8FR7oSteWa/view)|
 |5|21 jan 2021|Interpolation, Image file format|[Lecture](https://drive.google.com/file/d/1ti_eZddkBvz7KWRty1LSRQA8vNHNHH9d/view)|
 |6|27 jan 2021|opencv,jupyter intro, Geometric transformations|[Lecture](https://drive.google.com/file/d/1XxhSpSBYtgv9EFUeMu-QjyDBSWG1aV4o/view)|
-|7|30 jan 2021||[Lecture](https://drive.google.com/file/d/10fMo9jF7aacgcuE0hX5z_dxDR9jyjyxO/view)|
+<!-- |7|30 jan 2021||[Lecture](https://drive.google.com/file/d/10fMo9jF7aacgcuE0hX5z_dxDR9jyjyxO/view)|
 |8|3 feb 2021||[Lecture]()|
 |9|4 feb 2021||[Lecture]()|
 |10|10 feb 2021||[Lecture]()|
 |11|11 feb 2021||[Lecture]()|
 |12|17 feb 2021||[Lecture]()|
-|13|18 feb 2021||[Lecture]()|
+|13|18 feb 2021||[Lecture]()| -->
 
 <!-- | lec no | date | topic |[Lecture]()| -->

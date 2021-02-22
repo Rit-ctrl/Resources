@@ -1,6 +1,6 @@
  # Computer Networks
 
- ## Faculty - Munesh 
+ ## Faculty - Dr. Munesh Singh
 
 |Lecture |Topic |PDF|Video|
 |---|---|---|---|
@@ -38,9 +38,3 @@
 |Lec 30|Transport layer protocol-TCP|[Slides](https://drive.google.com/file/d/1wzXduaya4a6xUpNzYNjVbo5iC0rnk65F/view)|[Lecture 30](https://drive.google.com/file/d/15cnhcvWIo66wAN4eeiUHMwtPTLYPPGTt/view)|
 |Lec 31|TCP|[Slides](https://drive.google.com/file/d/1TRfOxPWH53svXQWzV1eP9YC3C3Fwm0Tk/view)|[Lecture 31](https://drive.google.com/file/d/1YZp3TANWxW1zgf3lzRaHykqNdyt183KV/view)|
 |Master|All slides in one file|[Slides](https://drive.google.com/file/d/1rOHr1JPM7lwzzJ_kIWwsI6EwU6GfGt9l/view)|[-](-)|
-
-<!--
-|Lec |    |[Slides]() |[Lecture ]()|
-|Lec 23|    |[Slides]() |[Lecture 23]|
-|  |    |[Slides]() |[Lecture 24]|
--->

@@ -1,11 +1,11 @@
 # COMPUTER ARCHITECTURE
 
-## Faculty - Noor Mahammad
+## Faculty - Dr. Noor Mahammad SK
 
 ### Schedule 
 - Monday 2.00 - 2.50 pm  
 - Tuesday 12.00 - 12.50 pm
-- Thursday 11.00 - 11.50 pm
+- Thursday 11.00 - 11.50 am
 
 [Textbook](https://drive.google.com/file/d/18avYCG7UsnDsKBb2IszoQ5yp7rIaxsXe/view)
 
@@ -29,3 +29,7 @@
 | Lec 16 (11/2/21)|	|| [Lecture](https://drive.google.com/file/d/1N7bYh3B_NQ58N3dSsj4r6YaY_8EWi9o8/view)	|																		
 | Lec 17 (15/2/21)|	|| [Lecture](https://drive.google.com/file/d/1Uz63nNtield_868-YBTn0cCeDnjVx8IG/view)	|																		
 | Lec 18 (16/2/21)|Logic unit design(Exp-9)	|| [Lecture](https://drive.google.com/file/d/1wOxvDJYJjUBxL0XRL9REt0qPiFlSEfDJ/view)	|																		
+
+<!--
+|Lec (//21) | |[Slides]() |[Lecture]()|
+-->

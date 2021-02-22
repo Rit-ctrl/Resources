@@ -1,9 +1,9 @@
 # Pattern Recognition 
-## Faculty - Umarani
+## Faculty - Dr. Umarani Jayaraman
 
 ### Schedule 
 - Monday 12.00 - 12.50 pm  
-- Tuesday 11.00 - 11.50 pm
+- Tuesday 11.00 - 11.50 am
 - Thursday 9.00 - 9.50 am
 							
 [Text Book](https://github.com/dazzz/patrec2015/blob/master/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf)
@@ -30,7 +30,6 @@
 |Lec 17 (18/2/21) | |[Jamboard](https://drive.google.com/file/d/1cv6T97VCYuhRgWsFFC1HATqtN6sM8_6_/view?usp=sharing) |[Lecture](https://drive.google.com/file/d/18Ituo7uXs9rect6b3MnL5BMP5rcjfVlZ/view)|
 |Lec 18 (19/2/21) | |[Jamboard](https://drive.google.com/file/d/1OpY1sLVQEYJdRHEPdrE1V3tqaun8T2aw/view?usp=sharing) |[Lecture](https://drive.google.com/file/d/1kyAfEFn_llkpG0N65yOwI97YDGwqhsJ4/view)|
 
-<!---
+<!--
 |Lec (//21) | |[Slides]() |[Lecture]()|
 -->
-
