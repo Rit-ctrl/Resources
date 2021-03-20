@@ -23,16 +23,16 @@
 |Lec 18 17/2|DIC and DHP |[Slides]() |[Lecture]() |
 |Lec 19 18/2|Apriori Transaction Reduction and CFI,MFI |[Slides](https://drive.google.com/file/d/1q68uXjMaKMnmsxzlfQFbC16m42Wwk6dg/view)|[Lecture](https://drive.google.com/file/d/1swTKLtOiNsppjBgAQMTOq97GkbkmRqSv/view)|
 |Lec 20 19/2| Vertical Transaction Reduction|[Slides](https://drive.google.com/file/d/1lieREgQNKcjYedbUv74_kMbzKBB-ExD7/view)|[Lecture](https://drive.google.com/file/d/1VDq8IB6W2POCbmwkayAv8BzAONN3nFPj/view)|
-|Lec 21 24/2|CFI-Aclose Intro |[Slides](https://drive.google.com/open?id=1wo5uWS761em3_BRPmyJ0bA7RAGPMcoUP&authuser=0) |[Lecture](https://drive.google.com/open?id=1bTXvTty2NtuX4ZrNFI8kgi8SYM2mCI8k&authuser=0) |
-|Lec 22 25/2 |Aclose & Pincer |[Slides](https://drive.google.com/open?id=1EOQ82HhDynpEZ5dPNXL9solllJrfviCW&authuser=0) |[Lecture](https://drive.google.com/open?id=1ipSg96Yye-pj_-G8VorcKRy450fN_eZ6&authuser=0) |
-|Lec 23 26/2|Data Classification |[Slides](https://drive.google.com/open?id=19Rtjl0jMSttpywQ9mPUWVPPojI2bOqDJ&authuser=0) |[Lecture](https://drive.google.com/open?id=1mVbphmxpzScqLvr3Ee_WPxdCsvS756DS&authuser=0) |
-|Lec 24 10/3|Decision Tree Induction |[Slides](https://drive.google.com/open?id=17crzmopZQ6lFSU_KrDd0hQmZ1atqXDPW&authuser=0) |[Lecture](https://drive.google.com/open?id=1-KN6EEoGlVhcDHE3EgO9rV5b4JceJIQU&authuser=0) |
-|Lec 25 11/3|Decision Tree II |[Slides](https://drive.google.com/open?id=1JWdfWe56MsvCCsdYUKuHxEQHtvbKAkV-&authuser=0) |[Lecture](https://drive.google.com/open?id=1I1k099UOvvnIcmqzGk6-T8jVMbQ8wum3&authuser=0) |
-|Lec 26 12/3|Classifier Evaluation Measures |[Slides](https://drive.google.com/open?id=1hh0eBb-CJ7j4W_i-b00e0pYSOSDrcvlc&authuser=0) |[Lecture](https://drive.google.com/open?id=1bfE0eTeQDBDzlqQHe9vTK9BRtTXEUaz7&authuser=0) |
-|Lec 27 15/3|NBC |[Slides](https://drive.google.com/open?id=1pUyfRLvARvsskithu5iVZ1dZgK2IkG6X&authuser=0) |[Lecture](https://drive.google.com/open?id=1muJyMwaxFKS42g4T7roX1rRsxY5aul7A&authuser=0) |
-|Lec 28 17/3|NBC Laplacian Correction & GA Intro |[Slides](https://drive.google.com/open?id=1JDBPoknT5jkffStcFBbc7oRydiz-_F4n&authuser=0) |[Lecture](https://drive.google.com/open?id=1C6n3a9oOZm64-oAbV8WTGotLNbpW0XsG&authuser=0) |
-|Lec 29 18/3|GA |[Slides](https://drive.google.com/open?id=1ZWEVxKX1Izy2sxwOgIxwRi0JVrC4_XMK&authuser=0) |[Lecture](https://drive.google.com/open?id=1KSo7qjo2up46-jBKu0cBc6RYYLjGR0J0&authuser=0) |
-|Lec 30 19/3|Big data & Hadoop |[Slides](https://drive.google.com/open?id=1g_YeiypuUt-sh3XvOsF37K7BAThk2LvP&authuser=0) |[Lecture](https://drive.google.com/open?id=1BCSKuKYPBhcq-ZxSORzNRr_539G9bhOS&authuser=0) |
+|Lec 21 24/2|CFI-Aclose Intro |[Slides](https://drive.google.com/file/d/1wo5uWS761em3_BRPmyJ0bA7RAGPMcoUP/view)|[Lecture](https://drive.google.com/file/d/1bTXvTty2NtuX4ZrNFI8kgi8SYM2mCI8k/view)|
+|Lec 22 25/2 |Aclose & Pincer |[Slides](https://drive.google.com/file/d/1EOQ82HhDynpEZ5dPNXL9solllJrfviCW/view)|[Lecture](https://drive.google.com/file/d/1ipSg96Yye-pj_-G8VorcKRy450fN_eZ6/view)|
+|Lec 23 26/2|Data Classification |[Slides](https://drive.google.com/file/d/19Rtjl0jMSttpywQ9mPUWVPPojI2bOqDJ/view)|[Lecture](https://drive.google.com/file/d/1mVbphmxpzScqLvr3Ee_WPxdCsvS756DS/view)|
+|Lec 24 10/3|Decision Tree Induction |[Slides](https://drive.google.com/file/d/17crzmopZQ6lFSU_KrDd0hQmZ1atqXDPW/view)|[Lecture](https://drive.google.com/file/d/1-KN6EEoGlVhcDHE3EgO9rV5b4JceJIQU/view)|
+|Lec 25 11/3|Decision Tree II |[Slides](https://drive.google.com/file/d/1JWdfWe56MsvCCsdYUKuHxEQHtvbKAkV-/view)|[Lecture](https://drive.google.com/file/d/1I1k099UOvvnIcmqzGk6-T8jVMbQ8wum3/view)|
+|Lec 26 12/3|Classifier Evaluation Measures |[Slides](https://drive.google.com/file/d/1hh0eBb-CJ7j4W_i-b00e0pYSOSDrcvlc/view)|[Lecture](https://drive.google.com/file/d/1bfE0eTeQDBDzlqQHe9vTK9BRtTXEUaz7/view)|
+|Lec 27 15/3|NBC |[Slides](https://drive.google.com/file/d/1pUyfRLvARvsskithu5iVZ1dZgK2IkG6X/view)|[Lecture](https://drive.google.com/file/d/1muJyMwaxFKS42g4T7roX1rRsxY5aul7A/view)|
+|Lec 28 17/3|NBC Laplacian Correction & GA Intro |[Slides](https://drive.google.com/file/d/1JDBPoknT5jkffStcFBbc7oRydiz-_F4n/view)|[Lecture](https://drive.google.com/file/d/1C6n3a9oOZm64-oAbV8WTGotLNbpW0XsG/view)|
+|Lec 29 18/3|GA |[Slides](https://drive.google.com/file/d/1ZWEVxKX1Izy2sxwOgIxwRi0JVrC4_XMK/view)|[Lecture](https://drive.google.com/file/d/1KSo7qjo2up46-jBKu0cBc6RYYLjGR0J0/view)|
+|Lec 30 19/3|Big data & Hadoop |[Slides](https://drive.google.com/file/d/1g_YeiypuUt-sh3XvOsF37K7BAThk2LvP/view)|[Lecture](https://drive.google.com/file/d/1BCSKuKYPBhcq-ZxSORzNRr_539G9bhOS/view)|
 |Lec | |[Slides]() |[Lecture]() |
 |Lec | |[Slides]() |[Lecture]() |
 
