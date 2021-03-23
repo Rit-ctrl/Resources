@@ -20,7 +20,7 @@
 |Lec 15 10/2|FP-Trace I |[Slides](https://drive.google.com/file/d/1vsHtKemxmf2GCBSVCDcJOfG_ZlAd6XCX/view)|[Lecture](https://drive.google.com/file/d/1oVClgye0yQGveyoxGksSTNJZE07u7oUZ/view)|
 |Lec 16 11/2|FP-Trace II|[Slides](https://drive.google.com/file/d/1NDavIZVD5gc7rvbd3QAtQn0nOijfy-8T/view)|[Lecture](https://drive.google.com/file/d/1DfWpv0IklCZBHUChTQyiKfGFT3AUvK2C/view)|
 |Lec 17 12/2|DIC |[Slides](https://drive.google.com/file/d/1T_ElinaL1QCR2TQCbABPxJPEIO5i5Ljs/view)|[Lecture](https://drive.google.com/file/d/1JVm5jlt508NWlqUjZC9o__EIA2-6hJEs/view)|
-|Lec 18 17/2|DIC and DHP |[Slides](https://drive.google.com/open?id=1ZDu1eqAlaE7mEsDf-bqeolvqfhSgksFA&authuser=0) |[Lecture](https://drive.google.com/open?id=13MvPtbqj8OyUFY6ik3ilnHIKiUwAh0pr&authuser=0) |
+|Lec 18 17/2|DIC and DHP |[Slides](https://drive.google.com/file/d/1ZDu1eqAlaE7mEsDf-bqeolvqfhSgksFA/view)|[Lecture](https://drive.google.com/file/d/13MvPtbqj8OyUFY6ik3ilnHIKiUwAh0pr/view)|
 |Lec 19 18/2|Apriori Transaction Reduction and CFI,MFI |[Slides](https://drive.google.com/file/d/1q68uXjMaKMnmsxzlfQFbC16m42Wwk6dg/view)|[Lecture](https://drive.google.com/file/d/1swTKLtOiNsppjBgAQMTOq97GkbkmRqSv/view)|
 |Lec 20 19/2| Vertical Transaction Reduction|[Slides](https://drive.google.com/file/d/1lieREgQNKcjYedbUv74_kMbzKBB-ExD7/view)|[Lecture](https://drive.google.com/file/d/1VDq8IB6W2POCbmwkayAv8BzAONN3nFPj/view)|
 |Lec 21 24/2|CFI-Aclose Intro |[Slides](https://drive.google.com/file/d/1wo5uWS761em3_BRPmyJ0bA7RAGPMcoUP/view)|[Lecture](https://drive.google.com/file/d/1bTXvTty2NtuX4ZrNFI8kgi8SYM2mCI8k/view)|
