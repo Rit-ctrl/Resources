@@ -33,8 +33,6 @@
 |Lec 28 17/3|NBC Laplacian Correction & GA Intro |[Slides](https://drive.google.com/file/d/1JDBPoknT5jkffStcFBbc7oRydiz-_F4n/view)|[Lecture](https://drive.google.com/file/d/1C6n3a9oOZm64-oAbV8WTGotLNbpW0XsG/view)|
 |Lec 29 18/3|GA |[Slides](https://drive.google.com/file/d/1ZWEVxKX1Izy2sxwOgIxwRi0JVrC4_XMK/view)|[Lecture](https://drive.google.com/file/d/1KSo7qjo2up46-jBKu0cBc6RYYLjGR0J0/view)|
 |Lec 30 19/3|Big data & Hadoop |[Slides](https://drive.google.com/file/d/1g_YeiypuUt-sh3XvOsF37K7BAThk2LvP/view)|[Lecture](https://drive.google.com/file/d/1BCSKuKYPBhcq-ZxSORzNRr_539G9bhOS/view)|
-|Lec | |[Slides]() |[Lecture]() |
-|Lec | |[Slides]() |[Lecture]() |
 
 ## Useful links:
 
