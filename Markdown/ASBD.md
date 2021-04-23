@@ -33,7 +33,7 @@
 |Lec 28 17/3|NBC Laplacian Correction & GA Intro |[Slides](https://drive.google.com/file/d/1JDBPoknT5jkffStcFBbc7oRydiz-_F4n/view)|[Lecture](https://drive.google.com/file/d/1C6n3a9oOZm64-oAbV8WTGotLNbpW0XsG/view)|
 |Lec 29 18/3|GA |[Slides](https://drive.google.com/file/d/1ZWEVxKX1Izy2sxwOgIxwRi0JVrC4_XMK/view)|[Lecture](https://drive.google.com/file/d/1KSo7qjo2up46-jBKu0cBc6RYYLjGR0J0/view)|
 |Lec 30 19/3|Big data & Hadoop |[Slides](https://drive.google.com/file/d/1g_YeiypuUt-sh3XvOsF37K7BAThk2LvP/view)|[Lecture](https://drive.google.com/file/d/1BCSKuKYPBhcq-ZxSORzNRr_539G9bhOS/view)|
-|Lec 31 24/3| GA  |[Slides](https://drive.google.com/open?id=1fLdBveqdeE3rYMuON1uN8QGefTmbDbMD&authuser=0) |[Lecture]https://drive.google.com/open?id=1tz0fX9RdC_QksJCP_iXgd5hwoXfk39_c&authuser=0) |
+|Lec 31 24/3| GA  |[Slides](https://drive.google.com/open?id=1fLdBveqdeE3rYMuON1uN8QGefTmbDbMD&authuser=0) |[Lecture](https://drive.google.com/open?id=1tz0fX9RdC_QksJCP_iXgd5hwoXfk39_c&authuser=0) |
 |Lec 32 25/3|GA Schema theorem |[Slides](https://drive.google.com/open?id=1QI9ACHzTAHJWBPZo3bL1Ox7ofNIgJpdJ&authuser=0) |[Lecture](https://drive.google.com/open?id=1RLFm942yFUgNCqlgNuEGAnbJjCmtBknl&authuser=0) |
 |Lec 33 26/3|GA |[Slides](https://drive.google.com/open?id=1Dl23jQRsz5Byim1fr_fA0-SAtV_qApIh&authuser=0) |[Lecture](https://drive.google.com/open?id=1rSTz6J4AwsMl4JmsN8wAIuaMeu6msmLB&authuser=0) |
 |Lec 34 31/03|Bucket Brigade Classifier |[Slides](https://drive.google.com/open?id=1MohLgeG8mDefTWb0Obtwu9D5S9opFzxW&authuser=0) |[Lecture](https://drive.google.com/open?id=1_uX_RX0YbNJSF4vrSQCQb94wW9B6kZ61&authuser=0) |
