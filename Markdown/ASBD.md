@@ -33,19 +33,19 @@
 |Lec 28 17/3|NBC Laplacian Correction & GA Intro |[Slides](https://drive.google.com/file/d/1JDBPoknT5jkffStcFBbc7oRydiz-_F4n/view)|[Lecture](https://drive.google.com/file/d/1C6n3a9oOZm64-oAbV8WTGotLNbpW0XsG/view)|
 |Lec 29 18/3|GA |[Slides](https://drive.google.com/file/d/1ZWEVxKX1Izy2sxwOgIxwRi0JVrC4_XMK/view)|[Lecture](https://drive.google.com/file/d/1KSo7qjo2up46-jBKu0cBc6RYYLjGR0J0/view)|
 |Lec 30 19/3|Big data & Hadoop |[Slides](https://drive.google.com/file/d/1g_YeiypuUt-sh3XvOsF37K7BAThk2LvP/view)|[Lecture](https://drive.google.com/file/d/1BCSKuKYPBhcq-ZxSORzNRr_539G9bhOS/view)|
-|Lec 31 24/3| GA  |[Slides](https://drive.google.com/open?id=1fLdBveqdeE3rYMuON1uN8QGefTmbDbMD&authuser=0) |[Lecture](https://drive.google.com/open?id=1tz0fX9RdC_QksJCP_iXgd5hwoXfk39_c&authuser=0) |
-|Lec 32 25/3|GA Schema theorem |[Slides](https://drive.google.com/open?id=1QI9ACHzTAHJWBPZo3bL1Ox7ofNIgJpdJ&authuser=0) |[Lecture](https://drive.google.com/open?id=1RLFm942yFUgNCqlgNuEGAnbJjCmtBknl&authuser=0) |
-|Lec 33 26/3|GA |[Slides](https://drive.google.com/open?id=1Dl23jQRsz5Byim1fr_fA0-SAtV_qApIh&authuser=0) |[Lecture](https://drive.google.com/open?id=1rSTz6J4AwsMl4JmsN8wAIuaMeu6msmLB&authuser=0) |
-|Lec 34 31/03|Bucket Brigade Classifier |[Slides](https://drive.google.com/open?id=1MohLgeG8mDefTWb0Obtwu9D5S9opFzxW&authuser=0) |[Lecture](https://drive.google.com/open?id=1_uX_RX0YbNJSF4vrSQCQb94wW9B6kZ61&authuser=0) |
-|Lec 35 01/04|BBC and Spark intro |[Slides](https://drive.google.com/open?id=17yCqPG185nAxYsfWI73VdQFEmwfe6lUH&authuser=0) |[Lecture](https://drive.google.com/open?id=1_yKg_P5jHKB4q2w9dnLvC1QF1H3KdIZB&authuser=0) |
-|Lec 36 07/04|NN |[Slides](https://drive.google.com/open?id=1XAVELmZkIY4X5vUptGpUywt2LBQLfvho&authuser=0) |[Lecture](https://drive.google.com/open?id=1imUg8AAACjI0d6eSP9sSy3odHAA9HH5p&authuser=0) |
-|Lec 37 08/04|NN-Logic gates |[Slides](https://drive.google.com/open?id=1V2cCJihbtc6-8yV5H4OrmbvXGHsYVgcL&authuser=0) |[Lecture](https://drive.google.com/open?id=1U909JgoTXZcx6zQDSXH1oCF-osvHAT5c&authuser=0) |
-|Lec 38 09/04|Spark Programming |[Slides](https://drive.google.com/open?id=1X73-W44CSZswM6xvmmty_Pxtx5emR3YX&authuser=0) |[Lecture](https://drive.google.com/open?id=1vGvTVu8Mw01n9H5DBWIxr_djXVEkfiao&authuser=0) |
-|Lec 39 13/04|NN- BackProp|[Slides](https://drive.google.com/open?id=1VcbBbYTKFitohP4nek6Nxgg5Df2PyoO7&authuser=0) |[Lecture](https://drive.google.com/open?id=1qrBJvRoCTW0Kk8NA-suofVPEuc0Lqeo3&authuser=0) |
-|Lec 40 15/04|Clustering K-Means |[Slides](https://drive.google.com/open?id=1z3Rs26oi0SMHa7c8TeCdTDDYnRAPrwn2&authuser=0) |[Lecture](https://drive.google.com/open?id=1llOEP-pyu9MErUHKSgJ0H-ZIcZzAGus7&authuser=0) |
-|Lec 41 16/04|Hierarchial Clustering |[Slides](https://drive.google.com/open?id=1u2zTonNGyt6z8Yyl5CnzbG6x66nARpmG&authuser=0) |[Lecture](https://drive.google.com/open?id=1UYSDsHG8GErWXLsAXuzxmv7bXEmwwGWr&authuser=0) |
-|Lec 42 21/04|Distance Measures |[Slides](https://drive.google.com/open?id=1UxrJE_Pklc2ojsrIzlJethVczwtYEdpk&authuser=0) |[Lecture](https://drive.google.com/open?id=1vMmkrSEKLJ2Q5tWgRfM3byoQ5afzu1zN&authuser=0) |
-|Lec 43 22/04|DBScan and LSH |[Slides](https://drive.google.com/open?id=1Dg-yfoL7rBxUHNoNwhfmj4Ae6XgEJpF8&authuser=0) |[Lecture](https://drive.google.com/open?id=1xhlYTed6mdyi2DkUs2kNo5PM7VhgYe9G&authuser=0) |
+|Lec 31 24/3| GA  |[Slides](https://drive.google.com/file/d/1fLdBveqdeE3rYMuON1uN8QGefTmbDbMD/view)|[Lecture](https://drive.google.com/file/d/1tz0fX9RdC_QksJCP_iXgd5hwoXfk39_c/view)|
+|Lec 32 25/3|GA Schema theorem |[Slides](https://drive.google.com/file/d/1QI9ACHzTAHJWBPZo3bL1Ox7ofNIgJpdJ/view)|[Lecture](https://drive.google.com/file/d/1RLFm942yFUgNCqlgNuEGAnbJjCmtBknl/view)|
+|Lec 33 26/3|GA |[Slides](https://drive.google.com/file/d/1Dl23jQRsz5Byim1fr_fA0-SAtV_qApIh/view)|[Lecture](https://drive.google.com/file/d/1rSTz6J4AwsMl4JmsN8wAIuaMeu6msmLB/view)|
+|Lec 34 31/03|Bucket Brigade Classifier |[Slides](https://drive.google.com/file/d/1MohLgeG8mDefTWb0Obtwu9D5S9opFzxW/view)|[Lecture](https://drive.google.com/file/d/1_uX_RX0YbNJSF4vrSQCQb94wW9B6kZ61/view)|
+|Lec 35 01/04|BBC and Spark intro |[Slides](https://drive.google.com/file/d/17yCqPG185nAxYsfWI73VdQFEmwfe6lUH/view)|[Lecture](https://drive.google.com/file/d/1_yKg_P5jHKB4q2w9dnLvC1QF1H3KdIZB/view)|
+|Lec 36 07/04|NN |[Slides](https://drive.google.com/file/d/1XAVELmZkIY4X5vUptGpUywt2LBQLfvho/view)|[Lecture](https://drive.google.com/file/d/1imUg8AAACjI0d6eSP9sSy3odHAA9HH5p/view)|
+|Lec 37 08/04|NN-Logic gates |[Slides](https://drive.google.com/file/d/1V2cCJihbtc6-8yV5H4OrmbvXGHsYVgcL/view)|[Lecture](https://drive.google.com/file/d/1U909JgoTXZcx6zQDSXH1oCF-osvHAT5c/view)|
+|Lec 38 09/04|Spark Programming |[Slides](https://drive.google.com/file/d/1X73-W44CSZswM6xvmmty_Pxtx5emR3YX/view)|[Lecture](https://drive.google.com/file/d/1vGvTVu8Mw01n9H5DBWIxr_djXVEkfiao/view)|
+|Lec 39 13/04|NN- BackProp|[Slides](https://drive.google.com/file/d/1VcbBbYTKFitohP4nek6Nxgg5Df2PyoO7/view)|[Lecture](https://drive.google.com/file/d/1qrBJvRoCTW0Kk8NA-suofVPEuc0Lqeo3/view)|
+|Lec 40 15/04|Clustering K-Means |[Slides](https://drive.google.com/file/d/1z3Rs26oi0SMHa7c8TeCdTDDYnRAPrwn2/view)|[Lecture](https://drive.google.com/file/d/1llOEP-pyu9MErUHKSgJ0H-ZIcZzAGus7/view)|
+|Lec 41 16/04|Hierarchial Clustering |[Slides](https://drive.google.com/file/d/1u2zTonNGyt6z8Yyl5CnzbG6x66nARpmG/view)|[Lecture](https://drive.google.com/file/d/1UYSDsHG8GErWXLsAXuzxmv7bXEmwwGWr/view)|
+|Lec 42 21/04|Distance Measures |[Slides](https://drive.google.com/file/d/1UxrJE_Pklc2ojsrIzlJethVczwtYEdpk/view)|[Lecture](https://drive.google.com/file/d/1vMmkrSEKLJ2Q5tWgRfM3byoQ5afzu1zN/view)|
+|Lec 43 22/04|DBScan and LSH |[Slides](https://drive.google.com/file/d/1Dg-yfoL7rBxUHNoNwhfmj4Ae6XgEJpF8/view)|[Lecture](https://drive.google.com/file/d/1xhlYTed6mdyi2DkUs2kNo5PM7VhgYe9G/view)|
 
 
 ## Useful links:
