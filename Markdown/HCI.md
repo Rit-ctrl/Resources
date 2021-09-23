@@ -1,4 +1,4 @@
-# DHuman Computer Interaction
+# Human Computer Interaction
 ## Faculty - Dr.B Sivaselvan
 
 ### Schedule
